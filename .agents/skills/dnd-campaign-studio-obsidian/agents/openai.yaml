@@ -1,0 +1,4 @@
+interface:
+  display_name: "D&D Campaign Studio"
+  short_description: "Obsidian-Kampagnen mit Kanonpflege"
+  default_prompt: "Verwende $dnd-campaign-studio-obsidian, um eine D&D-Kampagne oder Kampagnendatei für Obsidian mit sauberem Kanon, Wikilinks und Progression zu erstellen oder zu aktualisieren."
