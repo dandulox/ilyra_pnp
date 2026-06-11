@@ -7,7 +7,7 @@ tags:
   - universe
   - person
   - index
-last_updated_in: 2026-06-10-universe-foundation
+last_updated_in: 2026-06-10-hagbrunn-figures-hahnbund
 ---
 
 # Personen
@@ -37,4 +37,26 @@ Diese Datei sammelt bedeutende Persönlichkeiten, die über eine einzelne Kampag
 - [[Serida Serren-Vaelren]]
 - [[Oren Morcant-Vaelren]]
 
-Gültig ab: 2026-06-10-haus-vaelren-family
+## Lysanor-Apparat
+
+- [[Burghofmeister Roderik Halmar]]
+- [[Hofdame Selvera Nahl]]
+- [[Kanzleimeister Tavin Elt]]
+- [[Registerhüterin Mira Voss]]
+- [[Gero Amsel]]
+- [[Sir Caldus Mern]]
+- [[Oldra Fenk]]
+
+## Kornwacht-Apparat
+
+- [[Abgabeschreiber Iven Taal]]
+- [[Vollstrecker Marolt Vey]]
+- [[Speichermeisterin Dema Rhul]]
+
+## Hagbrunn
+
+- [[Alwene Hargast]]
+- [[Tjark Mellen]]
+- [[Vorsteher Eirik Damm]]
+
+Gültig ab: 2026-06-10-hagbrunn-figures-hahnbund

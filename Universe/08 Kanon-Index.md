@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - index
-last_updated_in: 2026-06-10-universe-foundation
+last_updated_in: 2026-06-10-brasselmark
 ---
 
 # Kanon-Index
@@ -28,6 +28,8 @@ last_updated_in: 2026-06-10-universe-foundation
 
 - [[Regionen/Narethis]]
 - [[Regionen/Velis]]
+- [[Regionen/Aurenhal]]
+- [[Regionen/Brasselmark]]
 - [[Regionen/Das Grenzland von Dornufer]]
 
 ## Fraktionen
@@ -45,11 +47,25 @@ last_updated_in: 2026-06-10-universe-foundation
 
 - [[Rohstoffe und Artefakte/Schimmerglas]]
 
+## Städte und Siedlungen
+
+- [[Städte und Siedlungen/Lysanor]]
+- [[Städte und Siedlungen/Kornwacht]]
+- [[Städte und Siedlungen/Eichenfurt]]
+- [[Städte und Siedlungen/Riedheim]]
+- [[Städte und Siedlungen/Moorsteg]]
+- [[Städte und Siedlungen/Steinweg]]
+- [[Städte und Siedlungen/Lysanor - Die Weißschieferburg]]
+- [[Städte und Siedlungen/Lysanor - Die Große Kanzlei]]
+- [[Städte und Siedlungen/Lysanor - Die Hallen von Vorrath]]
+- [[Städte und Siedlungen/Lysanor - Der Audienzhof]]
+- [[Städte und Siedlungen/Lysanor - Das Graue Archiv]]
+- [[Städte und Siedlungen/00 Index]]
+
 ## Noch leer, aber vorgesehen
 
-- [[Städte und Siedlungen/00 Index]]
 - [[Personen/00 Index]]
 - [[Kreaturen/00 Index]]
 - [[Mythen und Überlieferungen/00 Index]]
 
-Gültig ab: 2026-06-10-velis-foundation
+Gültig ab: 2026-06-10-brasselmark

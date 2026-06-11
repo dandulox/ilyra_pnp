@@ -9,7 +9,7 @@ tags:
   - family-tree
 last_updated_in: 2026-06-10-haus-vaelren-family
 ---
-
+wo wa
 # Haus Vaelren - Familienstruktur
 
 ## Kurzprofil

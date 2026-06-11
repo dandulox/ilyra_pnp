@@ -7,7 +7,7 @@ tags:
   - universe
   - faction
   - dynasty
-last_updated_in: 2026-06-10-haus-vaelren-family
+last_updated_in: 2026-06-10-brasselmark
 ---
 
 # Haus Vaelren
@@ -18,7 +18,7 @@ Das herrschende Königshaus von [[Regionen/Velis]] und zugleich der zentrale Ade
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-haus-vaelren-family
+Gültig ab: 2026-06-10-brasselmark
 
 Haus Vaelren hält Velis nicht nur über die Krone, sondern über ein dichtes Netz verwandtschaftlicher Zuständigkeiten. Blutlinie, Verwaltung, Abgabe und religiöse Legitimation greifen ineinander.
 
@@ -31,15 +31,15 @@ Haus Vaelren hält Velis nicht nur über die Krone, sondern über ein dichtes Ne
 
 ## Verwaltungsmuster
 
-- Aurenhal als Machtkern des Hofes
+- [[Regionen/Aurenhal]] als Machtkern des Hofes
 - verwandtschaftlich gebundene Seitenlinien in Brasselmark, Kelvarn, Serevin und Thalmoor
 - Distanz und geringe Fürsorge gegenüber Dornufer
 
 ## Führende Familienmitglieder
 
 - [[König Odran Vaelren]]: alter König und spiritueller Machtanker
-- [[Kronprinz Caelen Vaelren]]: Hauptlinie von Aurenhal und offizieller Erbe
-- [[Herzog Hadrik Vaelren]]: Blutlinie von Brasselmark und härtester Nebenanspruch
+- [[Kronprinz Caelen Vaelren]]: Hauptlinie von [[Regionen/Aurenhal]] und offizieller Erbe
+- [[Herzog Hadrik Vaelren]]: Blutlinie von [[Regionen/Brasselmark]] und härtester Nebenanspruch
 - [[Lady Ysara Vaelren]]: Blutlinie von Kelvarn und leise materielle Gegenmacht
 - [[Prinzessin Elswyn Vaelren-Serren]]: angeheiratete Linie von Serevin
 - [[Lady Thessa Vaelren-Morcant]]: angeheiratete Linie von Thalmoor
@@ -55,9 +55,21 @@ Die aktuelle Struktur von Haus Vaelren ist in drei politisch relevante Generatio
 - religiöser Einfluss des Hohllichts auf die Thronfrage
 - wachsender Druck aus der dritten Generation
 
+## Sichtbarer Machtkern
+
+Die repräsentative Schauseite des Hauses liegt in [[Regionen/Aurenhal]] und besonders in [[Städte und Siedlungen/Lysanor]]. Dort hält die Hauptlinie Hof, Verwaltung und Zugang zum alten König unter Kontrolle, zumindest nach außen.
+
+## Materieller Abgabekern
+
+Der härteste wirtschaftliche Griff des Hauses liegt in [[Regionen/Brasselmark]] und besonders in [[Städte und Siedlungen/Kornwacht]]. Dort erscheint Macht weniger als Würde denn als Zählung, Lagerung und Weiterleitung.
+
 ## Relevante Verweise
 
 - [[Regionen/Velis]]
+- [[Regionen/Aurenhal]]
+- [[Regionen/Brasselmark]]
+- [[Städte und Siedlungen/Lysanor]]
+- [[Städte und Siedlungen/Kornwacht]]
 - [[Religionen/Die Lehre vom Hohllicht]]
 - [[03 Mächte und Konfliktachsen]]
 - [[Haus Vaelren - Familienstruktur]]
