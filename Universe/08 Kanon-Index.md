@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - index
-last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
+last_updated_in: 2026-06-11-kalvarn-foundation
 ---
 
 # Kanon-Index
@@ -30,10 +30,12 @@ last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
 - [[Regionen/Velis]]
 - [[Regionen/Aurenhal]]
 - [[Regionen/Brasselmark]]
+- [[Regionen/Kalvarn]]
 - [[Regionen/Brasselmark - Der verschlossene Ernteanteil]]
 - [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]]
 - [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]]
 - [[Regionen/Das Grenzland von Dornufer]]
+- [[Regionen/Wurmschneise]]
 
 ## Fraktionen
 
@@ -54,6 +56,8 @@ last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
 
 - [[Städte und Siedlungen/Lysanor]]
 - [[Städte und Siedlungen/Kornwacht]]
+- [[Städte und Siedlungen/Schwarzharz]]
+- [[Städte und Siedlungen/Stillrain]]
 - [[Städte und Siedlungen/Riegelsteg]]
 - [[Städte und Siedlungen/Eichenfurt]]
 - [[Städte und Siedlungen/Riedheim]]
@@ -72,4 +76,4 @@ last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
 - [[Kreaturen/00 Index]]
 - [[Mythen und Überlieferungen/00 Index]]
 
-Gültig ab: 2026-06-11-brasselmark-transport-chokepoint
+Gültig ab: 2026-06-11-kalvarn-foundation

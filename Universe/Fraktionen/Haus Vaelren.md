@@ -7,7 +7,7 @@ tags:
   - universe
   - faction
   - dynasty
-last_updated_in: 2026-06-10-brasselmark
+last_updated_in: 2026-06-11-kalvarn-foundation
 ---
 
 # Haus Vaelren
@@ -18,7 +18,7 @@ Das herrschende Königshaus von [[Regionen/Velis]] und zugleich der zentrale Ade
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-brasselmark
+Gültig ab: 2026-06-11-kalvarn-foundation
 
 Haus Vaelren hält Velis nicht nur über die Krone, sondern über ein dichtes Netz verwandtschaftlicher Zuständigkeiten. Blutlinie, Verwaltung, Abgabe und religiöse Legitimation greifen ineinander.
 
@@ -32,7 +32,7 @@ Haus Vaelren hält Velis nicht nur über die Krone, sondern über ein dichtes Ne
 ## Verwaltungsmuster
 
 - [[Regionen/Aurenhal]] als Machtkern des Hofes
-- verwandtschaftlich gebundene Seitenlinien in Brasselmark, Kelvarn, Serevin und Thalmoor
+- verwandtschaftlich gebundene Seitenlinien in Brasselmark, Kalvarn, Serevin und Thalmoor
 - Distanz und geringe Fürsorge gegenüber Dornufer
 
 ## Führende Familienmitglieder
@@ -40,7 +40,7 @@ Haus Vaelren hält Velis nicht nur über die Krone, sondern über ein dichtes Ne
 - [[König Odran Vaelren]]: alter König und spiritueller Machtanker
 - [[Kronprinz Caelen Vaelren]]: Hauptlinie von [[Regionen/Aurenhal]] und offizieller Erbe
 - [[Herzog Hadrik Vaelren]]: Blutlinie von [[Regionen/Brasselmark]] und härtester Nebenanspruch
-- [[Lady Ysara Vaelren]]: Blutlinie von Kelvarn und leise materielle Gegenmacht
+- [[Lady Ysara Vaelren]]: Blutlinie von Kalvarn und leise materielle Gegenmacht
 - [[Prinzessin Elswyn Vaelren-Serren]]: angeheiratete Linie von Serevin
 - [[Lady Thessa Vaelren-Morcant]]: angeheiratete Linie von Thalmoor
 
@@ -63,13 +63,19 @@ Die repräsentative Schauseite des Hauses liegt in [[Regionen/Aurenhal]] und bes
 
 Der härteste wirtschaftliche Griff des Hauses liegt in [[Regionen/Brasselmark]] und besonders in [[Städte und Siedlungen/Kornwacht]]. Dort erscheint Macht weniger als Würde denn als Zählung, Lagerung und Weiterleitung.
 
+## Stiller Material- und Warnwissensraum
+
+In [[Regionen/Kalvarn]] erscheint Macht ruhiger, aber nicht weniger tief. Die Linie von [[Lady Ysara Vaelren]] hält dort Zugriff auf Holz, Pech, Arbeitsketten und Wege, bleibt aber stärker als andere Linien auf das Erfahrungswissen lokaler Waldleute angewiesen.
+
 ## Relevante Verweise
 
 - [[Regionen/Velis]]
 - [[Regionen/Aurenhal]]
 - [[Regionen/Brasselmark]]
+- [[Regionen/Kalvarn]]
 - [[Städte und Siedlungen/Lysanor]]
 - [[Städte und Siedlungen/Kornwacht]]
+- [[Städte und Siedlungen/Schwarzharz]]
 - [[Religionen/Die Lehre vom Hohllicht]]
 - [[03 Mächte und Konfliktachsen]]
 - [[Haus Vaelren - Familienstruktur]]

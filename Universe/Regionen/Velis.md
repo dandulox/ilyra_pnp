@@ -7,7 +7,7 @@ tags:
   - universe
   - realm
   - canton
-last_updated_in: 2026-06-11-velis-region-links
+last_updated_in: 2026-06-11-kalvarn-foundation
 ---
 
 # Velis
@@ -18,7 +18,7 @@ Ein germanisch angehauchtes Königreich auf [[Regionen/Narethis]], wirtschaftlic
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-11-velis-region-links
+Gültig ab: 2026-06-11-kalvarn-foundation
 
 [[Velis]] hält sich nicht durch Wohlstand, sondern durch Gewohnheit, Abgabe, Vorsicht und die enge Verflechtung von Herrschaft und Familie. Offene Größe fehlt dem Land; dafür besitzt es zähe Beständigkeit und eine erschöpfte Ordnung.
 
@@ -36,7 +36,7 @@ Gültig ab: 2026-06-11-velis-region-links
 | --- | --- | --- |
 | [[Regionen/Aurenhal]] | Hof- und Zentralkanton | direkt im Machtkern des Hauses Vaelren |
 | [[Regionen/Brasselmark]] | Acker- und Abgabekanton | durch Seitenlinie verwaltet |
-| Kelvarn | Wald- und Handwerkskanton | durch Seitenlinie verwaltet |
+| [[Regionen/Kalvarn]] | Wald- und Rohstoffkanton | durch Seitenlinie verwaltet |
 | Serevin | Fluss- und Zollkanton | durch Seitenlinie verwaltet |
 | Thalmoor | rauer Randkanton | schwächer kontrolliert, aber verwaltet |
 | [[Regionen/Das Grenzland von Dornufer]] | äußerster Grenzraum | formal zugehörig, praktisch vernachlässigt |
@@ -45,7 +45,9 @@ Gültig ab: 2026-06-11-velis-region-links
 
 Fünf lohnende Kantone werden von Seitenlinien des [[Fraktionen/Haus Vaelren]] gehalten. Dadurch verschmelzen Blutsverwandtschaft, Verwaltung und Abschöpfung beinahe zu einem System. Nur [[Regionen/Das Grenzland von Dornufer]] fällt aus dieser Logik heraus, weil der Adelstamm den Raum für wenig wertvoll hält.
 
-Die Hauptlinie von [[Regionen/Aurenhal]] wird durch [[Kronprinz Caelen Vaelren]] repräsentiert. Ihr sichtbarster Machtort ist [[Städte und Siedlungen/Lysanor]]. [[Herzog Hadrik Vaelren]] hält [[Regionen/Brasselmark]], dessen Zentralort [[Städte und Siedlungen/Kornwacht]] die Logik von Erfassung und Abschöpfung sichtbar macht. [[Lady Ysara Vaelren]] hält Kelvarn, [[Prinzessin Elswyn Vaelren-Serren]] die Serevin-Linie und [[Lady Thessa Vaelren-Morcant]] die raue Linie von Thalmoor.
+Die Hauptlinie von [[Regionen/Aurenhal]] wird durch [[Kronprinz Caelen Vaelren]] repräsentiert. Ihr sichtbarster Machtort ist [[Städte und Siedlungen/Lysanor]]. [[Herzog Hadrik Vaelren]] hält [[Regionen/Brasselmark]], dessen Zentralort [[Städte und Siedlungen/Kornwacht]] die Logik von Erfassung und Abschöpfung sichtbar macht. [[Lady Ysara Vaelren]] hält [[Regionen/Kalvarn]], [[Prinzessin Elswyn Vaelren-Serren]] die Serevin-Linie und [[Lady Thessa Vaelren-Morcant]] die raue Linie von Thalmoor.
+
+Kalvarn zeigt die stillere Materialseite der Herrschaft: Holz, Harz, Pech und Wegefähigkeit. Gerade weil der Kanton nicht über offene Fülle, sondern über Nutzbarkeit funktioniert, bleibt er stärker auf lokales Erfahrungswissen angewiesen als andere Kantone.
 
 ## Religion und Legitimation
 
@@ -60,9 +62,12 @@ Nach außen wirkt die Thronfolge geordnet, doch innerhalb von [[Fraktionen/Haus 
 - [[Regionen/Narethis]]
 - [[Regionen/Aurenhal]]
 - [[Regionen/Brasselmark]]
+- [[Regionen/Kalvarn]]
 - [[Regionen/Das Grenzland von Dornufer]]
 - [[Fraktionen/Haus Vaelren]]
 - [[Fraktionen/Haus Vaelren - Familienstruktur]]
 - [[Städte und Siedlungen/Lysanor]]
 - [[Städte und Siedlungen/Kornwacht]]
+- [[Städte und Siedlungen/Schwarzharz]]
+- [[Städte und Siedlungen/Stillrain]]
 - [[Religionen/Die Lehre vom Hohllicht]]

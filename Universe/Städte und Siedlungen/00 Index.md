@@ -7,7 +7,7 @@ tags:
   - universe
   - settlements
   - index
-last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
+last_updated_in: 2026-06-11-kalvarn-foundation
 ---
 
 # Städte und Siedlungen
@@ -27,6 +27,8 @@ Diese Datei wird die zentrale Übersicht für kampagnenübergreifend relevante S
 
 - [[Städte und Siedlungen/Lysanor]]: Hauptstadt von [[Regionen/Aurenhal]] und höfischer Machtkern von [[Regionen/Velis]]
 - [[Städte und Siedlungen/Kornwacht]]: Zentralort von [[Regionen/Brasselmark]] und Ort der Erfassung, Lagerung und Abgabe
+- [[Städte und Siedlungen/Schwarzharz]]: rußiger Arbeitsort von [[Regionen/Kalvarn]] für Pech, Holzlager und Abtransport
+- [[Städte und Siedlungen/Stillrain]]: kleine Waldsiedlung in [[Regionen/Kalvarn]] mit starkem Warn- und Ortswissen
 - [[Städte und Siedlungen/Riegelsteg]]: kleiner Übergabe- und Kontrollort zwischen Dorfverkehr und Kornwacht
 - [[Städte und Siedlungen/Eichenfurt]]: Korn- und Speicherort für Lysanor
 - [[Städte und Siedlungen/Riedheim]]: Handwerksort für Hof und Verwaltung
@@ -45,4 +47,4 @@ Diese Datei wird die zentrale Übersicht für kampagnenübergreifend relevante S
 
 - mögliche spätere Übernahme von [[Campaigns/Neufurt/Orte/Neufurt]] nach Prüfung auf Weltrelevanz
 
-Gültig ab: 2026-06-11-brasselmark-transport-chokepoint
+Gültig ab: 2026-06-11-kalvarn-foundation

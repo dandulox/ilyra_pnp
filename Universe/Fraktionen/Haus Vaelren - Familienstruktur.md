@@ -7,9 +7,9 @@ tags:
   - universe
   - dynasty
   - family-tree
-last_updated_in: 2026-06-10-haus-vaelren-family
+last_updated_in: 2026-06-11-kalvarn-foundation
 ---
-wo wa
+
 # Haus Vaelren - Familienstruktur
 
 ## Kurzprofil
@@ -25,7 +25,7 @@ König Odran Vaelren
     │   └── Prinz Lucan Vaelren
     ├── Herzog Hadrik Vaelren - Blutlinie von Brasselmark
     │   └── Lady Brenna Vaelren
-    ├── Lady Ysara Vaelren - Blutlinie von Kelvarn
+    ├── Lady Ysara Vaelren - Blutlinie von Kalvarn
     │   └── Joric Vaelren
     ├── Prinzessin Elswyn Vaelren-Serren - angeheiratete Linie von Serevin
     │   └── Serida Serren-Vaelren
@@ -39,7 +39,7 @@ König Odran Vaelren
 |---|---|---|---|
 | Hauptlinie | [[Kronprinz Caelen Vaelren]] | Aurenhal | direkte Thronfolge |
 | Brasselmark-Linie | [[Herzog Hadrik Vaelren]] | Brasselmark | Blutlinie |
-| Kelvarn-Linie | [[Lady Ysara Vaelren]] | Kelvarn | Blutlinie |
+| Kalvarn-Linie | [[Lady Ysara Vaelren]] | Kalvarn | Blutlinie |
 | Serevin-Linie | [[Prinzessin Elswyn Vaelren-Serren]] | Serevin | angeheiratete Linie |
 | Thalmoor-Linie | [[Lady Thessa Vaelren-Morcant]] | Thalmoor | angeheiratete Linie |
 | vernachlässigter Rand | keine feste Linie | [[Regionen/Das Grenzland von Dornufer]] | formell zugehörig, praktisch ausgeklammert |
@@ -52,7 +52,7 @@ Nach außen erscheint Haus Vaelren als geschlossene Dynastie. Tatsächlich ruht 
 
 - [[Kronprinz Caelen Vaelren]] besitzt das formale Erbrecht, aber nicht die ungeteilte Autorität.
 - [[Herzog Hadrik Vaelren]] hält sich für regierungsfähiger als die Hauptlinie.
-- [[Lady Ysara Vaelren]] baut in Kelvarn eine leise, materielle Gegenmacht auf.
+- [[Lady Ysara Vaelren]] baut in Kalvarn eine leise, materielle Gegenmacht auf.
 - Die Linien von [[Prinzessin Elswyn Vaelren-Serren]] und [[Lady Thessa Vaelren-Morcant]] werden gebraucht, aber nie vollständig vertraut.
 - Die dritte Generation wird bereits auf Thronfolge, Religion, Bündnisse und Rivalität vorbereitet.
 

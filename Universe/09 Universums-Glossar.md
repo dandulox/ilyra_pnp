@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - glossary
-last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
+last_updated_in: 2026-06-11-kalvarn-foundation
 ---
 
 # Universums-Glossar
@@ -24,8 +24,12 @@ Diese Datei sammelt kanonische Begriffe, bevorzugte Schreibweisen und kurze Defi
 | Velis | ausgezehrtes, neutral auftretendes Königreich auf Narethis | [[Regionen/Velis]] |
 | Aurenhal | Hof- und Verwaltungskanton von Velis | [[Regionen/Aurenhal]] |
 | Brasselmark | fruchtbarer, aber ausgezehrter Abgabekanton von Velis | [[Regionen/Brasselmark]] |
+| Kalvarn | ausgezehrter Nutzwald- und Rohstoffkanton von Velis | [[Regionen/Kalvarn]] |
 | Lysanor | Hauptstadt von Aurenhal und höfischer Machtort von Velis | [[Städte und Siedlungen/Lysanor]] |
 | Kornwacht | harter Zentralort von Brasselmark für Erfassung, Lagerung und Abgabe | [[Städte und Siedlungen/Kornwacht]] |
+| Schwarzharz | rußiger Arbeitsort von Kalvarn für Pechöfen, Holzlager und Abtransport | [[Städte und Siedlungen/Schwarzharz]] |
+| Stillrain | kleine Waldsiedlung von Kalvarn mit starkem Warn- und Ortswissen | [[Städte und Siedlungen/Stillrain]] |
+| Wurmschneise | alte Haupttrasse durch Kalvarn zwischen Materialfluss und gemiedenen Zonen | [[Regionen/Wurmschneise]] |
 | Riegelsteg | kleiner Übergabe- und Kontrollort von Brasselmark vor Kornwacht | [[Städte und Siedlungen/Riegelsteg]] |
 | Winterzoll von Riegelsteg | Folgekonflikt, in dem Brasselmark Wege und Wintervorräte verschärft kontrolliert | [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]] |
 | Weißschieferburg | königlicher Hauptsitz in Lysanor | [[Städte und Siedlungen/Lysanor - Die Weißschieferburg]] |
@@ -43,4 +47,4 @@ Diese Datei sammelt kanonische Begriffe, bevorzugte Schreibweisen und kurze Defi
 
 Neue Begriffe sollten hier eingetragen werden, sobald sie kampagnenübergreifend relevant werden oder häufig in Dossiers auftauchen.
 
-Gültig ab: 2026-06-11-brasselmark-transport-chokepoint
+Gültig ab: 2026-06-11-kalvarn-foundation
