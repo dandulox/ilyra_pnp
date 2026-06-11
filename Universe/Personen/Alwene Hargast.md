@@ -7,7 +7,7 @@ tags:
   - universe
   - person
   - hagbrunn
-last_updated_in: 2026-06-10-hagbrunn-figures-hahnbund
+last_updated_in: 2026-06-11-jerrik-alwene-link
 ---
 
 # Alwene Hargast
@@ -18,7 +18,7 @@ Die unscheinbar wirkende Wirtin des geheimen `Hüpfenden Hahn`, die in [[Städte
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-hagbrunn-figures-hahnbund
+Gültig ab: 2026-06-11-jerrik-alwene-link
 
 Alwene wirkt freundlich, ruhig und beinahe belanglos. Gerade deshalb wird sie oft unterschätzt. Im Dorf jedoch wissen viele, dass an ihr kaum etwas vorübergeht.
 
@@ -42,9 +42,12 @@ Alwene stammt nicht aus großem Haus und nicht aus besonderem Wohlstand. Sie ler
 
 - [[Tjark Mellen]]: sieht seine Wut klarer, als er selbst es tut
 - [[Vorsteher Eirik Damm]]: schützt seine müde Mitte, ohne ihm ganz zu vertrauen
+- [[Wagenlenker Jerrik Voss]]: vorsichtiger äußerer Faden, den sie nur für kleine notwendige Bewegungen belastet
 - [[Fraktionen/Der Hahnbund]]: natürliches Zentrum des kleinen geheimen Kreises
 - [[Städte und Siedlungen/Hagbrunn]]: ihr eigentlicher Verantwortungsraum
 
 ## Rolle in Hagbrunn
 
 Alwene verkörpert die stille Wachsamkeit des Dorfes. Über sie laufen Warnungen, Andeutungen, Hilfe und die ersten vorsichtigen Fäden des Hahnbunds.
+
+Wo der Druck von [[Städte und Siedlungen/Kornwacht]] über [[Städte und Siedlungen/Riegelsteg]] auch die Wege verengt, gehört [[Wagenlenker Jerrik Voss]] zu den wenigen Menschen, die Alwene überhaupt für kleine äußere Bewegungen in Betracht zieht. Nicht weil sie ihm blind vertraut, sondern weil er versteht, dass Hilfe nur nützt, wenn sie wie Gewöhnlichkeit aussieht.

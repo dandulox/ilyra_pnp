@@ -7,7 +7,7 @@ tags:
   - universe
   - town
   - storage
-last_updated_in: 2026-06-10-hagbrunn-first-consequence
+last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
 ---
 
 # Kornwacht
@@ -18,9 +18,9 @@ Der harte Zentralort von [[Brasselmark]], an dem Erträge erfasst, gelagert, bew
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-hagbrunn-first-consequence
+Gültig ab: 2026-06-11-brasselmark-transport-chokepoint
 
-[[Kornwacht]] ist kein glanzvoller Mittelpunkt, sondern ein Ort von Kornhöfen, Zählung, Lagerdruck und Weiterleitung. Hier wird sichtbar, dass Fruchtbarkeit in `Velis` nicht zuerst Schutz, sondern Anspruch erzeugt.
+[[Kornwacht]] ist kein glanzvoller Mittelpunkt, sondern ein Ort von Kornhöfen, Zählung, Lagerdruck und Weiterleitung. Hier wird sichtbar, dass Fruchtbarkeit in `Velis` nicht zuerst Schutz, sondern Anspruch erzeugt. Mit dem wachsenden Druck auf Übergabeorte wie [[Städte und Siedlungen/Riegelsteg]] reicht dieser Anspruch inzwischen über den Speicher hinaus bis auf die Wege selbst.
 
 ## Gesicherte Aussagen
 
@@ -34,6 +34,7 @@ Gültig ab: 2026-06-10-hagbrunn-first-consequence
 - Lagerung in Speichern und Kornhöfen
 - Überwachung und Weiterleitung von Abgaben
 - Sammelpunkt für Listen, Wagen und kontrollierte Ausfuhr
+- vorgelagerte Sichtung und Umlenkung über Orte wie [[Städte und Siedlungen/Riegelsteg]]
 
 ## Öffentliche Wirkung
 
@@ -44,6 +45,7 @@ Kornwacht wirkt zweckmäßig, nüchtern und angespannt. Alles am Ort spricht von
 - Gute Jahre beruhigen den Ort nicht, sie verschärfen die Erwartungen.
 - Speicher zeigen den Menschen, was ihr Land kann und was sie nicht behalten werden.
 - Wer in Kornwacht zählt, lernt schnell, dass Ordnung und Entzug im selben Register stehen.
+- Je mehr Kontrolle ins Vorfeld ausgelagert wird, desto schwerer lässt sich noch unterscheiden, wo Prüfung endet und Strafe beginnt.
 
 ## Die eiserne Triade
 
@@ -57,6 +59,8 @@ Im Fall [[Regionen/Brasselmark - Der verschlossene Ernteanteil]] zeigt Kornwacht
 
 Mit [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]] wird diese Härte sichtbar genug, dass selbst Nachbardörfer lernen, wie früh Kornwacht aus Verdacht ein öffentliches Zeichen macht.
 
+Mit [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]] zeigt sich der nächste Schritt: Kornwacht muss nicht jedes Dorf direkt betreten, wenn bereits ein kleiner Wegort genügt, um Zeit, Vorrat und Bewegung unter Druck zu setzen.
+
 ## Relevante Verweise
 
 - [[Regionen/Brasselmark]]
@@ -64,7 +68,9 @@ Mit [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]] wird diese Härte s
 - [[Regionen/Brasselmark - Der verschlossene Ernteanteil]]
 - [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]]
 - [[Städte und Siedlungen/Hagbrunn]]
+- [[Städte und Siedlungen/Riegelsteg]]
 - [[Herzog Hadrik Vaelren]]
 - [[Abgabeschreiber Iven Taal]]
 - [[Vollstrecker Marolt Vey]]
 - [[Speichermeisterin Dema Rhul]]
+- [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]]

@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - index
-last_updated_in: 2026-06-10-brasselmark
+last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
 ---
 
 # Kanon-Index
@@ -30,6 +30,9 @@ last_updated_in: 2026-06-10-brasselmark
 - [[Regionen/Velis]]
 - [[Regionen/Aurenhal]]
 - [[Regionen/Brasselmark]]
+- [[Regionen/Brasselmark - Der verschlossene Ernteanteil]]
+- [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]]
+- [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]]
 - [[Regionen/Das Grenzland von Dornufer]]
 
 ## Fraktionen
@@ -51,6 +54,7 @@ last_updated_in: 2026-06-10-brasselmark
 
 - [[Städte und Siedlungen/Lysanor]]
 - [[Städte und Siedlungen/Kornwacht]]
+- [[Städte und Siedlungen/Riegelsteg]]
 - [[Städte und Siedlungen/Eichenfurt]]
 - [[Städte und Siedlungen/Riedheim]]
 - [[Städte und Siedlungen/Moorsteg]]
@@ -68,4 +72,4 @@ last_updated_in: 2026-06-10-brasselmark
 - [[Kreaturen/00 Index]]
 - [[Mythen und Überlieferungen/00 Index]]
 
-Gültig ab: 2026-06-10-brasselmark
+Gültig ab: 2026-06-11-brasselmark-transport-chokepoint

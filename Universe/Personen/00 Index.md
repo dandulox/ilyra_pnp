@@ -7,7 +7,7 @@ tags:
   - universe
   - person
   - index
-last_updated_in: 2026-06-10-hagbrunn-figures-hahnbund
+last_updated_in: 2026-06-11-riegelsteg-counter-carrier
 ---
 
 # Personen
@@ -59,4 +59,10 @@ Diese Datei sammelt bedeutende Persönlichkeiten, die über eine einzelne Kampag
 - [[Tjark Mellen]]
 - [[Vorsteher Eirik Damm]]
 
-Gültig ab: 2026-06-10-hagbrunn-figures-hahnbund
+## Riegelsteg
+
+- [[Wegaufseherin Lysa Dorn]]
+- [[Brückenwart Hobb Kerlen]]
+- [[Wagenlenker Jerrik Voss]]
+
+Gültig ab: 2026-06-11-riegelsteg-counter-carrier

@@ -7,7 +7,7 @@ tags:
   - universe
   - village
   - brasselmark
-last_updated_in: 2026-06-10-hagbrunn-figures-hahnbund
+last_updated_in: 2026-06-11-jerrik-alwene-link
 ---
 
 # Hagbrunn
@@ -18,7 +18,7 @@ Ein armes Mischdorf von [[Regionen/Brasselmark]] nahe [[Städte und Siedlungen/K
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-hagbrunn-figures-hahnbund
+Gültig ab: 2026-06-11-jerrik-alwene-link
 
 [[Hagbrunn]] wirkt klein, müde und wenig bedeutend. Gerade diese Unscheinbarkeit hat dem Dorf geholfen, einen Teil seiner Ernte länger zu verbergen, als Kornwacht es für möglich hielt.
 
@@ -58,11 +58,19 @@ Nach [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]] rückt das Dorf na
 
 Genau daraus entsteht [[Fraktionen/Der Hahnbund]]: kein offener Aufstand, sondern ein geheimer Kreis aus Warnungen, Restwürde und wachsendem Trotz gegen die Krone.
 
+Mit [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]] reicht diese gespannte Heimlichkeit auch über das Dorf hinaus. Selbst Brennholz, Kleinvieh und kleine Transporte müssen nun damit rechnen, auf dem Weg nach oder an [[Städte und Siedlungen/Riegelsteg]] verdächtig zu wirken.
+
+Gerade deshalb werden vorsichtige Leute wichtig, die Bewegung weniger lesbar machen können. [[Wagenlenker Jerrik Voss]] gehört zu den wenigen, die auf diesen Wegen noch kleine Unterschiede zwischen Verdacht und Gewöhnlichkeit ausnutzen können.
+
+Wenn solche kleinen Bewegungen überhaupt gewagt werden, laufen sie meist nicht über offene Bitten, sondern über stille Fäden. Einer davon verbindet [[Alwene Hargast]] mit [[Wagenlenker Jerrik Voss]]: kein Bündnis, eher eine selten belastbare Verständigung darüber, welche Notwendigkeiten noch klein genug sind, um nicht sofort wie Widerspruch auszusehen.
+
 ## Rolle im Konflikt
 
 Im Fall [[Regionen/Brasselmark - Der verschlossene Ernteanteil]] wird Hagbrunn zum ersten offen sichtbaren Dorf, an dem Brasselmarks Abgabenordnung gegen die nackte Winterangst stößt.
 
 Mit [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]] beginnt die erste konkrete Folge, die aus Verdacht öffentliche Zwangswirklichkeit macht.
+
+Der nächste Druckschritt liegt in [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]]. Dort wird sichtbar, dass Hagbrunn nicht nur seine Speicher, sondern auch seine Wege nicht mehr als stillen Schutzraum behandeln kann.
 
 ## Relevante Verweise
 
@@ -70,6 +78,9 @@ Mit [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]] beginnt die erste k
 - [[Städte und Siedlungen/Kornwacht]]
 - [[Regionen/Brasselmark - Der verschlossene Ernteanteil]]
 - [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]]
+- [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]]
+- [[Städte und Siedlungen/Riegelsteg]]
+- [[Wagenlenker Jerrik Voss]]
 - [[Alwene Hargast]]
 - [[Tjark Mellen]]
 - [[Vorsteher Eirik Damm]]

@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - glossary
-last_updated_in: 2026-06-10-brasselmark
+last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
 ---
 
 # Universums-Glossar
@@ -26,6 +26,8 @@ Diese Datei sammelt kanonische Begriffe, bevorzugte Schreibweisen und kurze Defi
 | Brasselmark | fruchtbarer, aber ausgezehrter Abgabekanton von Velis | [[Regionen/Brasselmark]] |
 | Lysanor | Hauptstadt von Aurenhal und höfischer Machtort von Velis | [[Städte und Siedlungen/Lysanor]] |
 | Kornwacht | harter Zentralort von Brasselmark für Erfassung, Lagerung und Abgabe | [[Städte und Siedlungen/Kornwacht]] |
+| Riegelsteg | kleiner Übergabe- und Kontrollort von Brasselmark vor Kornwacht | [[Städte und Siedlungen/Riegelsteg]] |
+| Winterzoll von Riegelsteg | Folgekonflikt, in dem Brasselmark Wege und Wintervorräte verschärft kontrolliert | [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]] |
 | Weißschieferburg | königlicher Hauptsitz in Lysanor | [[Städte und Siedlungen/Lysanor - Die Weißschieferburg]] |
 | Große Kanzlei | zentrales Verwaltungszentrum von Lysanor | [[Städte und Siedlungen/Lysanor - Die Große Kanzlei]] |
 | Hallen von Vorrath | Speicher- und Verteilkomplex der Hauptstadt | [[Städte und Siedlungen/Lysanor - Die Hallen von Vorrath]] |
@@ -41,4 +43,4 @@ Diese Datei sammelt kanonische Begriffe, bevorzugte Schreibweisen und kurze Defi
 
 Neue Begriffe sollten hier eingetragen werden, sobald sie kampagnenübergreifend relevant werden oder häufig in Dossiers auftauchen.
 
-Gültig ab: 2026-06-10-brasselmark
+Gültig ab: 2026-06-11-brasselmark-transport-chokepoint

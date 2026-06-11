@@ -7,7 +7,7 @@ tags:
   - universe
   - canton
   - grain
-last_updated_in: 2026-06-10-hagbrunn-first-consequence
+last_updated_in: 2026-06-11-brasselmark-transport-chokepoint
 ---
 
 # Brasselmark
@@ -18,9 +18,9 @@ Der fruchtbare Abgabekanton von [[Velis]], dessen Böden noch tragen, dessen Men
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-hagbrunn-first-consequence
+Gültig ab: 2026-06-11-brasselmark-transport-chokepoint
 
-[[Brasselmark]] ist die Kornkammer von [[Velis]], aber keine gesicherte Heimat des Wohlstands. Gerade weil das Land fruchtbar bleibt, wird es besonders hart verwertet.
+[[Brasselmark]] ist die Kornkammer von [[Velis]], aber keine gesicherte Heimat des Wohlstands. Gerade weil das Land fruchtbar bleibt, wird es besonders hart verwertet. Nach den ersten offenen Folgen in [[Städte und Siedlungen/Hagbrunn]] wird zudem sichtbar, wie weit der Zugriff von der Ernte bis in die Wege des Kantons reicht.
 
 ## Gesicherte Aussagen
 
@@ -39,6 +39,8 @@ Brasselmark lässt sich über drei Ebenen verstehen:
 
 Ein erster konkret benannter Dorfraum ist [[Städte und Siedlungen/Hagbrunn]], dessen Lage zwischen Mangel, Zusammenhalt und Nähe zu Kornwacht den Charakter des Kantons besonders deutlich macht.
 
+Ein zweiter wichtiger Knoten ist [[Städte und Siedlungen/Riegelsteg]], ein kleiner Übergabe- und Kontrollort, an dem Bewegung, Nebenvorräte und Lieferwege früh in die Ordnung von Kornwacht gezogen werden.
+
 ## Verhältnis zur Herrschaft
 
 Brasselmark spiegelt die Art von [[Herzog Hadrik Vaelren]]: hart, pflichtfixiert und wenig an höfischer Beschönigung interessiert. Für manche ist diese Ordnung notwendig. Für andere ist sie das sauber geführte Gesicht der Auspressung.
@@ -49,6 +51,7 @@ Brasselmark spiegelt die Art von [[Herzog Hadrik Vaelren]]: hart, pflichtfixiert
 - Speicher stehen zugleich für Reichtum und Entzug
 - Fruchtbarkeit wird nicht geschützt, sondern verwertet
 - lokale Verwalter handeln weniger eigenständig, als dass sie Hadriks System vollziehen
+- selbst unscheinbare Wege und Transporte können unter Verdacht geraten
 
 ## Hadriks lokale Maschine
 
@@ -66,6 +69,8 @@ Ein erster sichtbarer Brennpunkt des Kantons ist [[Regionen/Brasselmark - Der ve
 
 Das betroffene Dorf ist [[Städte und Siedlungen/Hagbrunn]]. Mit [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]] beginnt dort die erste exemplarische Folge.
 
+Mit [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]] weitet sich diese Folge auf die Wege des Kantons aus. Der Druck endet nun nicht mehr am Speicher, sondern greift auf Übergaben, Tiere, Brennholz und kleine Wintertransporte über.
+
 ## Funktion im Weltbild
 
 Wenn [[Regionen/Aurenhal]] die sichtbare Würde von `Velis` trägt, dann trägt Brasselmark deren Preis. Der Kanton macht deutlich, dass höfische Fassade von erfasster Fruchtbarkeit lebt.
@@ -77,8 +82,10 @@ Wenn [[Regionen/Aurenhal]] die sichtbare Würde von `Velis` trägt, dann trägt 
 - [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]]
 - [[Städte und Siedlungen/Kornwacht]]
 - [[Städte und Siedlungen/Hagbrunn]]
+- [[Städte und Siedlungen/Riegelsteg]]
 - [[Herzog Hadrik Vaelren]]
 - [[Fraktionen/Haus Vaelren]]
 - [[Abgabeschreiber Iven Taal]]
 - [[Vollstrecker Marolt Vey]]
 - [[Speichermeisterin Dema Rhul]]
+- [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]]
