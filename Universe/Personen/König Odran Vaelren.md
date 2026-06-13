@@ -7,7 +7,7 @@ tags:
   - universe
   - person
   - king
-last_updated_in: 2026-06-10-haus-vaelren-family
+last_updated_in: 2026-06-13-malrec-hohllicht-foundation
 ---
 
 # König Odran Vaelren
@@ -18,9 +18,9 @@ Der alte König von [[Regionen/Velis]], körperlich geschwächt, religiös fanat
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-haus-vaelren-family
+Gültig ab: 2026-06-13-malrec-hohllicht-foundation
 
-Odran herrscht formal weiter, obwohl ein großer Teil der tatsächlichen Regierung längst durch seine Kinder und ihre Linien getragen wird. Seine Nähe zur [[Religionen/Die Lehre vom Hohllicht]] verleiht ihm noch immer spirituelle Autorität.
+Odran herrscht formal weiter, obwohl ein großer Teil der tatsächlichen Regierung längst durch seine Kinder und ihre Linien getragen wird. Seine Nähe zur [[Religionen/Die Lehre vom Hohllicht]] verleiht ihm noch immer spirituelle Autorität. Gerade in seiner geistlichen Abhängigkeit von [[Prior Malrec Veyn]] zeigt sich aber auch, wie tief die Religion bereits in sein Restkönigtum eingewachsen ist.
 
 ## Öffentliche Stellung
 
@@ -33,6 +33,7 @@ Odran herrscht formal weiter, obwohl ein großer Teil der tatsächlichen Regieru
 - Seine Frömmigkeit verschärft die Abgabenpolitik statt sie zu mildern.
 - Er schürt unbewusst den Nachfolgestreit, weil er keinen klaren Machtübergang vollzieht.
 - Mehrere Linien warten auf seinen Tod, ohne es offen zeigen zu dürfen.
+- Sein Gewissen ist nicht mehr nur fromm, sondern durch Figuren wie [[Prior Malrec Veyn]] leichter lenkbar geworden.
 
 ## Hintergrund
 
@@ -45,6 +46,7 @@ Odran erbte ein bereits belastetes Reich und verwandelte die wirtschaftliche Sch
 - [[Lady Ysara Vaelren]]: kluge Tochter, die er unterschätzt
 - [[Prinzessin Elswyn Vaelren-Serren]]: politisch nützlich durch Serevin
 - [[Lady Thessa Vaelren-Morcant]]: gebundene Randlinie mit rauem Nutzen
+- [[Prior Malrec Veyn]]: persönlicher Gewissensrat, der Frömmigkeit und Machtdeutung in seinem Inneren eng führt
 
 ## Rolle in Velis
 

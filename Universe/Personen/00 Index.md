@@ -7,7 +7,7 @@ tags:
   - universe
   - person
   - index
-last_updated_in: 2026-06-13-serevin-key-figures
+last_updated_in: 2026-06-13-malrec-hohllicht-foundation
 ---
 
 # Personen
@@ -47,6 +47,10 @@ Diese Datei sammelt bedeutende Persönlichkeiten, die über eine einzelne Kampag
 - [[Sir Caldus Mern]]
 - [[Oldra Fenk]]
 
+## Hohllicht und Hofgewissen
+
+- [[Prior Malrec Veyn]]
+
 ## Kornwacht-Apparat
 
 - [[Abgabeschreiber Iven Taal]]
@@ -77,4 +81,4 @@ Diese Datei sammelt bedeutende Persönlichkeiten, die über eine einzelne Kampag
 - [[Brückenwart Hobb Kerlen]]
 - [[Wagenlenker Jerrik Voss]]
 
-Gültig ab: 2026-06-13-serevin-key-figures
+Gültig ab: 2026-06-13-malrec-hohllicht-foundation

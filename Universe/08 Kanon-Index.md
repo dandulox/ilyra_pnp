@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - index
-last_updated_in: 2026-06-13-thalmoor-first-foundation
+last_updated_in: 2026-06-13-malrec-hohllicht-foundation
 ---
 
 # Kanon-Index
@@ -52,6 +52,7 @@ last_updated_in: 2026-06-13-thalmoor-first-foundation
 - [[Zollmeisterin Marei Selk]]
 - [[Hakenwart Tovin Reet]]
 - [[Faehrmutter Nila Venn]]
+- [[Prior Malrec Veyn]]
 
 ## Fraktionen
 
@@ -95,4 +96,4 @@ last_updated_in: 2026-06-13-thalmoor-first-foundation
 - [[Kreaturen/00 Index]]
 - [[Mythen und Überlieferungen/00 Index]]
 
-Gültig ab: 2026-06-13-thalmoor-first-foundation
+Gültig ab: 2026-06-13-malrec-hohllicht-foundation
