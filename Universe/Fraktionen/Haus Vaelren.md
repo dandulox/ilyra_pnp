@@ -7,7 +7,7 @@ tags:
   - universe
   - faction
   - dynasty
-last_updated_in: 2026-06-11-kalvarn-governance-setup
+last_updated_in: 2026-06-13-serevin-foundation
 ---
 
 # Haus Vaelren
@@ -18,7 +18,7 @@ Das herrschende Königshaus von [[Regionen/Velis]] und zugleich der zentrale Ade
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-11-kalvarn-governance-setup
+Gültig ab: 2026-06-13-serevin-foundation
 
 Haus Vaelren hält Velis nicht nur über die Krone, sondern über ein dichtes Netz verwandtschaftlicher Zuständigkeiten. Blutlinie, Verwaltung, Abgabe und religiöse Legitimation greifen ineinander.
 
@@ -69,15 +69,25 @@ In [[Regionen/Kalvarn]] erscheint Macht ruhiger, aber nicht weniger tief. Die Li
 
 Ihr sichtbarer Arm vor Ort ist [[Halmar Veyn]], der als Forstvogt Holzrechte, Wegaufsicht und Transportordnung zusammenhält. Gerade dadurch wird aber auch sichtbar, dass selbst ein belastbares Amt in Kalvarn ohne Gruppen wie die [[Rainhüter]] schneller fehlgreift als in anderen Kantonen.
 
+## Gefilterter Einlass nach außen
+
+In [[Regionen/Serevin]] erscheint Macht weniger als Befehl denn als Auswahl. Die Linie von [[Prinzessin Elswyn Vaelren-Serren]] hält dort Zoll, Empfang und Passage in einer Form zusammen, die nach Vermittlung aussieht und doch ständig politische Sortierung betreibt.
+
+Ihr stärkster Vorteil liegt nicht in offenem Zwang, sondern in kultivierter Lesbarkeit: Wer über [[Städte und Siedlungen/Silberfurt]] eintrifft, über [[Städte und Siedlungen/Nebelhaken]] auffällt oder in [[Regionen/Die Schmalen Wasser]] ausweicht, gerät in unterschiedliche Grade von Aufmerksamkeit. Gerade deshalb ist Serevin für das Haus nicht nur Grenzraum, sondern Schauseite kontrollierter Neutralität.
+
 ## Relevante Verweise
 
 - [[Regionen/Velis]]
 - [[Regionen/Aurenhal]]
 - [[Regionen/Brasselmark]]
 - [[Regionen/Kalvarn]]
+- [[Regionen/Serevin]]
 - [[Städte und Siedlungen/Lysanor]]
 - [[Städte und Siedlungen/Kornwacht]]
 - [[Städte und Siedlungen/Schwarzharz]]
+- [[Städte und Siedlungen/Silberfurt]]
+- [[Städte und Siedlungen/Nebelhaken]]
+- [[Regionen/Die Schmalen Wasser]]
 - [[Halmar Veyn]]
 - [[Rainhüter]]
 - [[Religionen/Die Lehre vom Hohllicht]]

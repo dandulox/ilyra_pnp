@@ -7,7 +7,7 @@ tags:
   - universe
   - person
   - index
-last_updated_in: 2026-06-12-kalvarn-brann-velde
+last_updated_in: 2026-06-13-serevin-key-figures
 ---
 
 # Personen
@@ -59,6 +59,12 @@ Diese Datei sammelt bedeutende Persönlichkeiten, die über eine einzelne Kampag
 - [[Ofenmeister Brann Velde]]
 - [[Wegmutter Alke Renn]]
 
+## Serevin-Apparat
+
+- [[Zollmeisterin Marei Selk]]
+- [[Hakenwart Tovin Reet]]
+- [[Faehrmutter Nila Venn]]
+
 ## Hagbrunn
 
 - [[Alwene Hargast]]
@@ -71,4 +77,4 @@ Diese Datei sammelt bedeutende Persönlichkeiten, die über eine einzelne Kampag
 - [[Brückenwart Hobb Kerlen]]
 - [[Wagenlenker Jerrik Voss]]
 
-Gültig ab: 2026-06-12-kalvarn-alke-renn
+Gültig ab: 2026-06-13-serevin-key-figures

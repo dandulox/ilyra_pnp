@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - index
-last_updated_in: 2026-06-12-kalvarn-alke-renn
+last_updated_in: 2026-06-13-thalmoor-first-foundation
 ---
 
 # Kanon-Index
@@ -31,12 +31,17 @@ last_updated_in: 2026-06-12-kalvarn-alke-renn
 - [[Regionen/Aurenhal]]
 - [[Regionen/Brasselmark]]
 - [[Regionen/Kalvarn]]
+- [[Regionen/Serevin]]
+- [[Regionen/Thalmoor]]
+- [[Regionen/Serevin - Der höfliche Stillstand von Silberfurt]]
+- [[Regionen/Serevin - Die erste Kettenprobe von Nebelhaken]]
 - [[Regionen/Kalvarn - Die gebrochene Marke der Wurmschneise]]
 - [[Regionen/Kalvarn - Der erste Sperrbalken der Wurmschneise]]
 - [[Regionen/Brasselmark - Der verschlossene Ernteanteil]]
 - [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]]
 - [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]]
 - [[Regionen/Das Grenzland von Dornufer]]
+- [[Regionen/Die Schmalen Wasser]]
 - [[Regionen/Wurmschneise]]
 
 ## Personen
@@ -44,6 +49,9 @@ last_updated_in: 2026-06-12-kalvarn-alke-renn
 - [[Halmar Veyn]]
 - [[Ofenmeister Brann Velde]]
 - [[Wegmutter Alke Renn]]
+- [[Zollmeisterin Marei Selk]]
+- [[Hakenwart Tovin Reet]]
+- [[Faehrmutter Nila Venn]]
 
 ## Fraktionen
 
@@ -67,6 +75,8 @@ last_updated_in: 2026-06-12-kalvarn-alke-renn
 - [[Städte und Siedlungen/Kornwacht]]
 - [[Städte und Siedlungen/Schwarzharz]]
 - [[Städte und Siedlungen/Stillrain]]
+- [[Städte und Siedlungen/Silberfurt]]
+- [[Städte und Siedlungen/Nebelhaken]]
 - [[Städte und Siedlungen/Riegelsteg]]
 - [[Städte und Siedlungen/Eichenfurt]]
 - [[Städte und Siedlungen/Riedheim]]
@@ -85,4 +95,4 @@ last_updated_in: 2026-06-12-kalvarn-alke-renn
 - [[Kreaturen/00 Index]]
 - [[Mythen und Überlieferungen/00 Index]]
 
-Gültig ab: 2026-06-12-kalvarn-alke-renn
+Gültig ab: 2026-06-13-thalmoor-first-foundation

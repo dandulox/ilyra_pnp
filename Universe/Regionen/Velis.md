@@ -7,7 +7,7 @@ tags:
   - universe
   - realm
   - canton
-last_updated_in: 2026-06-11-kalvarn-foundation
+last_updated_in: 2026-06-13-thalmoor-first-foundation
 ---
 
 # Velis
@@ -18,7 +18,7 @@ Ein germanisch angehauchtes Königreich auf [[Regionen/Narethis]], wirtschaftlic
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-11-kalvarn-foundation
+Gültig ab: 2026-06-13-thalmoor-first-foundation
 
 [[Velis]] hält sich nicht durch Wohlstand, sondern durch Gewohnheit, Abgabe, Vorsicht und die enge Verflechtung von Herrschaft und Familie. Offene Größe fehlt dem Land; dafür besitzt es zähe Beständigkeit und eine erschöpfte Ordnung.
 
@@ -37,17 +37,21 @@ Gültig ab: 2026-06-11-kalvarn-foundation
 | [[Regionen/Aurenhal]] | Hof- und Zentralkanton | direkt im Machtkern des Hauses Vaelren |
 | [[Regionen/Brasselmark]] | Acker- und Abgabekanton | durch Seitenlinie verwaltet |
 | [[Regionen/Kalvarn]] | Wald- und Rohstoffkanton | durch Seitenlinie verwaltet |
-| Serevin | Fluss- und Zollkanton | durch Seitenlinie verwaltet |
-| Thalmoor | rauer Randkanton | schwächer kontrolliert, aber verwaltet |
+| [[Regionen/Serevin]] | Fluss- und Zollkanton | durch Seitenlinie verwaltet |
+| [[Regionen/Thalmoor]] | rauer Last- und Strafkanton | schwächer kontrolliert, aber verwaltet |
 | [[Regionen/Das Grenzland von Dornufer]] | äußerster Grenzraum | formal zugehörig, praktisch vernachlässigt |
 
 ## Herrschaft und Gesellschaft
 
 Fünf lohnende Kantone werden von Seitenlinien des [[Fraktionen/Haus Vaelren]] gehalten. Dadurch verschmelzen Blutsverwandtschaft, Verwaltung und Abschöpfung beinahe zu einem System. Nur [[Regionen/Das Grenzland von Dornufer]] fällt aus dieser Logik heraus, weil der Adelstamm den Raum für wenig wertvoll hält.
 
-Die Hauptlinie von [[Regionen/Aurenhal]] wird durch [[Kronprinz Caelen Vaelren]] repräsentiert. Ihr sichtbarster Machtort ist [[Städte und Siedlungen/Lysanor]]. [[Herzog Hadrik Vaelren]] hält [[Regionen/Brasselmark]], dessen Zentralort [[Städte und Siedlungen/Kornwacht]] die Logik von Erfassung und Abschöpfung sichtbar macht. [[Lady Ysara Vaelren]] hält [[Regionen/Kalvarn]], [[Prinzessin Elswyn Vaelren-Serren]] die Serevin-Linie und [[Lady Thessa Vaelren-Morcant]] die raue Linie von Thalmoor.
+Die Hauptlinie von [[Regionen/Aurenhal]] wird durch [[Kronprinz Caelen Vaelren]] repräsentiert. Ihr sichtbarster Machtort ist [[Städte und Siedlungen/Lysanor]]. [[Herzog Hadrik Vaelren]] hält [[Regionen/Brasselmark]], dessen Zentralort [[Städte und Siedlungen/Kornwacht]] die Logik von Erfassung und Abschöpfung sichtbar macht. [[Lady Ysara Vaelren]] hält [[Regionen/Kalvarn]], [[Prinzessin Elswyn Vaelren-Serren]] die Linie von [[Regionen/Serevin]] und [[Lady Thessa Vaelren-Morcant]] die raue Linie von Thalmoor.
 
 Kalvarn zeigt die stillere Materialseite der Herrschaft: Holz, Harz, Pech und Wegefähigkeit. Gerade weil der Kanton nicht über offene Fülle, sondern über Nutzbarkeit funktioniert, bleibt er stärker auf lokales Erfahrungswissen angewiesen als andere Kantone.
+
+Serevin zeigt dagegen die gefilterte Offenheit des Reiches. Über [[Städte und Siedlungen/Silberfurt]], [[Städte und Siedlungen/Nebelhaken]] und [[Regionen/Die Schmalen Wasser]] lenkt die Linie von Elswyn nicht nur Waren und Reisende, sondern auch den Ton, in dem Fremde Velis überhaupt begegnen.
+
+Thalmoor zeigt, wohin [[Velis]] jene menschlichen und militärischen Lasten legt, die nötig sind, aber den Hof beschmutzen würden. Unter [[Lady Thessa Vaelren-Morcant]] bleibt der Kanton nützlich, misstrauisch beäugt und politisch geringgeachtet: ein Raum für Strafdienste, harte Garnisonen und zähe Pflichtposten, deren Kosten von Linie und Bevölkerung zugleich getragen werden.
 
 ## Religion und Legitimation
 
@@ -63,6 +67,8 @@ Nach außen wirkt die Thronfolge geordnet, doch innerhalb von [[Fraktionen/Haus 
 - [[Regionen/Aurenhal]]
 - [[Regionen/Brasselmark]]
 - [[Regionen/Kalvarn]]
+- [[Regionen/Serevin]]
+- [[Regionen/Thalmoor]]
 - [[Regionen/Das Grenzland von Dornufer]]
 - [[Fraktionen/Haus Vaelren]]
 - [[Fraktionen/Haus Vaelren - Familienstruktur]]
@@ -70,4 +76,7 @@ Nach außen wirkt die Thronfolge geordnet, doch innerhalb von [[Fraktionen/Haus 
 - [[Städte und Siedlungen/Kornwacht]]
 - [[Städte und Siedlungen/Schwarzharz]]
 - [[Städte und Siedlungen/Stillrain]]
+- [[Städte und Siedlungen/Silberfurt]]
+- [[Städte und Siedlungen/Nebelhaken]]
+- [[Regionen/Die Schmalen Wasser]]
 - [[Religionen/Die Lehre vom Hohllicht]]

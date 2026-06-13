@@ -7,7 +7,7 @@ tags:
   - universe
   - person
   - noble
-last_updated_in: 2026-06-10-haus-vaelren-family
+last_updated_in: 2026-06-13-serevin-key-figures
 ---
 
 # Serida Serren-Vaelren
@@ -18,7 +18,7 @@ Tochter von [[Prinzessin Elswyn Vaelren-Serren]], Erbin der Serevin-Linie und ge
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-haus-vaelren-family
+Gültig ab: 2026-06-13-serevin-key-figures
 
 Serida ist jung genug, um unterschätzt zu werden, und alt genug, um bereits zu verstehen, dass ihre Linie nur über Nützlichkeit und Eleganz überlebt.
 
@@ -43,6 +43,8 @@ Serida wurde in einer Welt groß, in der Zugehörigkeit nie selbstverständlich 
 - [[Prinzessin Elswyn Vaelren-Serren]]: Mutter und politische Lehrmeisterin
 - [[Prinz Lucan Vaelren]]: Cousin, zu dem sie höfische Nähe und taktische Distanz hält
 - [[Joric Vaelren]]: Cousin, dessen Nüchternheit sie respektiert
+- [[Zollmeisterin Marei Selk]]: Vorbild dafür, wie man Auswahl als Höflichkeit tarnt
+- [[Faehrmutter Nila Venn]]: Randfigur, an der Serida lernt, dass Bewegung nie ganz im Amt aufgeht
 
 ## Rolle in Velis
 
