@@ -8,7 +8,7 @@ tags:
   - person
   - religion
   - court
-last_updated_in: 2026-06-13-malrec-hohllicht-foundation
+last_updated_in: 2026-06-13-selvera-gegenpol
 ---
 
 # Prior Malrec Veyn
@@ -19,7 +19,7 @@ Der ruhige und scheinbar bescheidene Gewissensrat von [[König Odran Vaelren]], 
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-13-malrec-hohllicht-foundation
+Gültig ab: 2026-06-13-selvera-gegenpol
 
 [[Prior Malrec Veyn]] ist am Hof von [[Regionen/Velis]] keine laute Hauptfigur, aber eine tiefe. Seine Nähe zu [[König Odran Vaelren]] macht ihn zu einer legitimen religiösen Autorität. Gerade dadurch bleibt leicht unsichtbar, wie stark er Gewissen, Schuld und Abhängigkeit in politische Formbarkeit übersetzt.
 
@@ -34,6 +34,7 @@ Gültig ab: 2026-06-13-malrec-hohllicht-foundation
 - Er nutzt geistliche Nähe nicht vor allem zum Trost, sondern zur Bindung.
 - Er hält [[Kronprinz Caelen Vaelren]] für ein Machtproblem, nicht nur für einen zweifelnden Erben.
 - Er betrachtet die innere Nachfolgefrage auch als religiösen Prüfraum für die Zukunft von [[Velis]].
+- Er unterschätzt zunächst, wie viel stille Gegenwärme in Figuren wie [[Hofdame Selvera Nahl]] noch im Hof verblieben ist.
 - Seine gefährlichste Stärke liegt darin, dass viele ihn für kleiner halten, als er ist.
 
 ## Hintergrund
@@ -47,6 +48,7 @@ Aus dieser Einsicht machte er kein Mitleid, sondern Methode. Das Hohllicht wurde
 - [[König Odran Vaelren]]: wichtigste Quelle seiner Legitimität und seines Zugriffs
 - [[Kronprinz Caelen Vaelren]]: vorsichtiger Erbe, den er geistlich einengen oder moralisch schwächen möchte
 - [[Prinz Lucan Vaelren]]: frommer Enkel, der als spätere Formmasse des Hohllichts interessant bleibt
+- [[Hofdame Selvera Nahl]]: höfische Randfigur, deren Schutzinstinkt er eher als Restwärme denn als echte Gegenkraft liest
 - [[Religionen/Die Lehre vom Hohllicht]]: innerer Machtkern, den er hofnah bündelt, ohne offen als Spitze erkennbar zu sein
 
 ## Rolle im Hohllicht
