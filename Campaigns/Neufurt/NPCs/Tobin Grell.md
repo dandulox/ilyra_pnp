@@ -16,7 +16,7 @@ last_updated_in: Kampagnenstart
 
 ## Kurzprofil
 
-Erfahrener Sucher, improvisierter Sprecher der [[Die Freischürfer von Dornufer|Freischürfer von Dornufer]] und Mann mit scharfem Blick für Chancen, die offizielle Strukturen zu langsam erkennen.
+Erfahrener Sucher, improvisierter Sprecher der [[Campaigns/Neufurt/Fraktionen/Die Freischürfer von Dornufer|Freischürfer von Dornufer]] und Mann mit scharfem Blick für Chancen, die offizielle Strukturen zu langsam erkennen.
 
 ## Aktueller Stand
 
@@ -52,7 +52,7 @@ Noch keine.
 - [[Sera Kestel]]: gegenseitiges Verständnis ohne formales Bündnis
 - [[Edric Vale]]: erkennt dessen Ehrgeiz und misstraut ihm
 - [[Mara Venn]]: hält sie für fair, aber zu kompromissbereit
-- [[Die Freischürfer von Dornufer]]: informeller Anker
+- [[Campaigns/Neufurt/Fraktionen/Die Freischürfer von Dornufer|Die Freischürfer von Dornufer]]: informeller Anker
 
 ## Offene Fragen
 

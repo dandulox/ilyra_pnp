@@ -13,7 +13,7 @@
 ### Task 1: Konfliktdatei anlegen
 
 **Files:**
-- Create: `Universe/Regionen/Brasselmark - Der verschlossene Ernteanteil.md`
+- Create: `Universe/Regionen/Brasselmark/Brasselmark - Der verschlossene Ernteanteil.md`
 
 - [ ] **Step 1: Konfliktdatei schreiben**
 

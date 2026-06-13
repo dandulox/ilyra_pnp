@@ -1,4 +1,4 @@
----
+﻿---
 type: quest
 name: Wem die Stimmen folgen
 status: planned
@@ -15,32 +15,32 @@ last_updated_in: Kampagnenstart
 
 ## Kurzprofil
 
-Folgequest des Früh-Arcs: Nach der Rückkehr von der [[Die Glimmernarbe]] muss die Gruppe klären, wer in oder aus [[Neufurt]] begonnen hat, den Stimmen und dem [[Schimmerglas]] gezielt in den [[Schwarzweidenbruch]] zu folgen.
+Folgequest des FrÃ¼h-Arcs: Nach der RÃ¼ckkehr von der [[Die Glimmernarbe]] muss die Gruppe klÃ¤ren, wer in oder aus [[Neufurt]] begonnen hat, den Stimmen und dem [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] gezielt in den [[Schwarzweidenbruch]] zu folgen.
 
 ## Aktueller Stand
 
-Gültig ab: [[Session 04 - Heimkehr mit fremdem Licht]]
+GÃ¼ltig ab: [[Session 04 - Heimkehr mit fremdem Licht]]
 Sichtbarkeit: Spielerwissen
 
-Die Quest beginnt, sobald erste Hinweise auftauchen, dass die Resonanz nicht an der [[Die Glimmernarbe]] endet. Wer ihr folgt, gefährdet nicht nur sich selbst, sondern die politische Stabilität von [[Neufurt]].
+Die Quest beginnt, sobald erste Hinweise auftauchen, dass die Resonanz nicht an der [[Die Glimmernarbe]] endet. Wer ihr folgt, gefÃ¤hrdet nicht nur sich selbst, sondern die politische StabilitÃ¤t von [[Neufurt]].
 
-## Bekannter Stand für Spieler
+## Bekannter Stand fÃ¼r Spieler
 
-- Die Rückkehr von Wissen oder Proben aus der ersten Mission verschärft sofort die Lage in [[Neufurt]].
-- Nicht jede neue Spur führt tiefer in den Berg; manche führen zurück zu Menschen.
-- Die Resonanzkrankheit kann Trauer, Abhängigkeit und soziale Sammlung zusätzlich verschärfen.
+- Die RÃ¼ckkehr von Wissen oder Proben aus der ersten Mission verschÃ¤rft sofort die Lage in [[Neufurt]].
+- Nicht jede neue Spur fÃ¼hrt tiefer in den Berg; manche fÃ¼hren zurÃ¼ck zu Menschen.
+- Die Resonanzkrankheit kann Trauer, AbhÃ¤ngigkeit und soziale Sammlung zusÃ¤tzlich verschÃ¤rfen.
 
 ## DM-Geheimnisse
 
-- Die Quest markiert den Übergang vom Mysterium zur beginnenden Bewegung.
+- Die Quest markiert den Ãœbergang vom Mysterium zur beginnenden Bewegung.
 - Die ersten Freiwilligen im Bruch handeln nicht alle aus Fanatismus; viele folgen echter Trauer.
 - Die `Glimmernarben-Vergiftung` macht aus stiller Hoffnung leichter kollektiven Zwang.
 
 ## Questverlauf
 
-| Stand | Gültig ab | Beschreibung | Konsequenz |
+| Stand | GÃ¼ltig ab | Beschreibung | Konsequenz |
 |---|---|---|---|
-| Geplant | [[Session 04 - Heimkehr mit fremdem Licht]] | Neue Spuren führen vom Ort der Rückkehr in den [[Schwarzweidenbruch]] | Beginn eines sozialen Folgekonflikts |
+| Geplant | [[Session 04 - Heimkehr mit fremdem Licht]] | Neue Spuren fÃ¼hren vom Ort der RÃ¼ckkehr in den [[Schwarzweidenbruch]] | Beginn eines sozialen Folgekonflikts |
 
 ## Beziehungen
 
@@ -53,3 +53,4 @@ Die Quest beginnt, sobald erste Hinweise auftauchen, dass die Resonanz nicht an 
 
 - Wer folgt den Stimmen freiwillig, wer wird gelenkt?
 - Wird die Gruppe eher retten, aufdecken oder niederschlagen?
+

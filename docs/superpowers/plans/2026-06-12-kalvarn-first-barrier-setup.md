@@ -13,7 +13,7 @@
 ### Task 1: Folgekonflikt anlegen
 
 **Files:**
-- Create: `Universe/Regionen/Kalvarn - Der erste Sperrbalken der Wurmschneise.md`
+- Create: `Universe/Regionen/Kalvarn/Kalvarn - Der erste Sperrbalken der Wurmschneise.md`
 
 - [x] **Step 1: Konfliktdossier schreiben**
 

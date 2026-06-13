@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Das Universum soll mit einem ersten kleinen, klar konturierten Land befüllt werden. Dieses Land heißt [[Velis]] und liegt auf dem Kontinent [[Narethis]] in der Welt [[Ilyra]]. Es dient als erste belastbare politische und kulturelle Grundlage für spätere Kampagnen und verankert [[Das Grenzland von Dornufer]] in einem größeren Zusammenhang.
+Das Universum soll mit einem ersten kleinen, klar konturierten Land befüllt werden. Dieses Land heißt [[Velis]] und liegt auf dem Kontinent [[Narethis]] in der Welt [[Ilyra]]. Es dient als erste belastbare politische und kulturelle Grundlage für spätere Kampagnen und verankert [[Regionen/Das Grenzland von Dornufer|Das Grenzland von Dornufer]] in einem größeren Zusammenhang.
 
 ## Leitentscheidungen
 

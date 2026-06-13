@@ -14,7 +14,7 @@
 
 **Files:**
 - Modify: `Universe/Fraktionen/Haus Vaelren.md`
-- Create: `Universe/Fraktionen/Haus Vaelren - Familienstruktur.md`
+- Create: `Universe/Fraktionen/Haus Vaelren/Haus Vaelren - Familienstruktur.md`
 - Modify: `Universe/Personen/00 Index.md`
 
 - [ ] **Step 1: Familienstrukturdatei für Haus Vaelren schreiben**

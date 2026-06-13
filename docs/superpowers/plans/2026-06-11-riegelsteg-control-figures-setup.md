@@ -36,7 +36,7 @@ Prüfe, ob Lysa für formale Ordnung und Hobb für persönliche Ortskontrolle kl
 
 **Files:**
 - Modify: `Universe/Städte und Siedlungen/Riegelsteg.md`
-- Modify: `Universe/Regionen/Brasselmark - Der Winterzoll von Riegelsteg.md`
+- Modify: `Universe/Regionen/Brasselmark/Brasselmark - Der Winterzoll von Riegelsteg.md`
 
 - [ ] **Step 1: `Riegelsteg` um eine Schlüsselfiguren-Sektion ergänzen**
 

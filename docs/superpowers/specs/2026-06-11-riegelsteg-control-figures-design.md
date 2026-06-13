@@ -54,7 +54,7 @@ Er zeigt:
 - `Universe/Personen/<Wegaufseherin>.md`
 - `Universe/Personen/<Brückenwart oder Fuhrprüfer>.md`
 - `Universe/Städte und Siedlungen/Riegelsteg.md`
-- `Universe/Regionen/Brasselmark - Der Winterzoll von Riegelsteg.md`
+- `Universe/Regionen/Brasselmark/Brasselmark - Der Winterzoll von Riegelsteg.md`
 - `Universe/Personen/00 Index.md`
 
 ## Empfohlene nächste Ausbaustufe

@@ -31,7 +31,7 @@ Prüfe, ob Jerrik weder wie ein offener Rebell noch wie eine dritte Kontrollfigu
 
 **Files:**
 - Modify: `Universe/Städte und Siedlungen/Riegelsteg.md`
-- Modify: `Universe/Regionen/Brasselmark - Der Winterzoll von Riegelsteg.md`
+- Modify: `Universe/Regionen/Brasselmark/Brasselmark - Der Winterzoll von Riegelsteg.md`
 - Modify: `Universe/Städte und Siedlungen/Hagbrunn.md`
 
 - [ ] **Step 1: `Riegelsteg` um die Gegenfigur ergänzen**

@@ -14,7 +14,7 @@
 
 **Files:**
 - Create: `Universe/Städte und Siedlungen/Riegelsteg.md`
-- Create: `Universe/Regionen/Brasselmark - Der Winterzoll von Riegelsteg.md`
+- Create: `Universe/Regionen/Brasselmark/Brasselmark - Der Winterzoll von Riegelsteg.md`
 
 - [ ] **Step 1: Ortsnamen und Konfliktnamen festziehen**
 

@@ -1,4 +1,4 @@
----
+﻿---
 type: faction
 name: Rat von Neufurt
 status: active
@@ -15,43 +15,44 @@ last_updated_in: Kampagnenstart
 
 ## Kurzprofil
 
-Dreiköpfiges Führungsgremium von [[Neufurt]], entstanden aus Notwendigkeit statt Tradition. Der Rat entscheidet über Vorräte, Schutz, Arbeitseinsätze und Außenexpeditionen.
+DreikÃ¶pfiges FÃ¼hrungsgremium von [[Neufurt]], entstanden aus Notwendigkeit statt Tradition. Der Rat entscheidet Ã¼ber VorrÃ¤te, Schutz, ArbeitseinsÃ¤tze und AuÃŸenexpeditionen.
 
 ## Aktueller Stand
 
-Gültig ab: [[Kampagnenstart]]
+GÃ¼ltig ab: [[Kampagnenstart]]
 Sichtbarkeit: Spielerwissen
 
-Der Rat funktioniert noch, aber nur knapp. Jeder Beschluss steht unter Druck von Hungererinnerung, Zukunftsangst und der Frage, wer über [[Schimmerglas]] verfügen darf.
+Der Rat funktioniert noch, aber nur knapp. Jeder Beschluss steht unter Druck von Hungererinnerung, Zukunftsangst und der Frage, wer Ã¼ber [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] verfÃ¼gen darf.
 
-## Bekannter Stand für Spieler
+## Bekannter Stand fÃ¼r Spieler
 
-- [[Mara Venn]] steht für Versorgung und Stabilität.
-- [[Edric Vale]] steht für Wachstum, Zugriff und Tempo.
-- [[Sera Kestel]] steht für Selbstbestimmung und Widerstand gegen Machtballung.
+- [[Mara Venn]] steht fÃ¼r Versorgung und StabilitÃ¤t.
+- [[Edric Vale]] steht fÃ¼r Wachstum, Zugriff und Tempo.
+- [[Sera Kestel]] steht fÃ¼r Selbstbestimmung und Widerstand gegen Machtballung.
 
 ## DM-Geheimnisse
 
-- Der Rat könnte an einer einzigen schiefen Entscheidung offen zerbrechen.
-- Alle drei Ratsmitglieder brauchen die Gruppe aus unterschiedlichen Gründen und hoffen zugleich, sie auf ihre Seite zu ziehen.
+- Der Rat kÃ¶nnte an einer einzigen schiefen Entscheidung offen zerbrechen.
+- Alle drei Ratsmitglieder brauchen die Gruppe aus unterschiedlichen GrÃ¼nden und hoffen zugleich, sie auf ihre Seite zu ziehen.
 
 ## Fraktionsentwicklung
 
-| Gültig ab | Veränderung | Ursache | Sichtbarkeit |
+| GÃ¼ltig ab | VerÃ¤nderung | Ursache | Sichtbarkeit |
 |---|---|---|---|
-| [[Kampagnenstart]] | Rat hält die Siedlung mit Mühe zusammen | Nachwirkungen des ersten Winters | Spielerwissen |
+| [[Kampagnenstart]] | Rat hÃ¤lt die Siedlung mit MÃ¼he zusammen | Nachwirkungen des ersten Winters | Spielerwissen |
 
-## Frühere Versionen / Archiv
+## FrÃ¼here Versionen / Archiv
 
 Noch keine.
 
 ## Beziehungen
 
 - [[Neufurt]]: offizielles Machtzentrum
-- [[Die Freischürfer von Dornufer]]: Konfliktfeld um Rechte und Kontrolle
-- [[Was von der Glimmernarbe ruft]]: erste gemeinsame Bewährungsprobe
+- [[Die FreischÃ¼rfer von Dornufer]]: Konfliktfeld um Rechte und Kontrolle
+- [[Was von der Glimmernarbe ruft]]: erste gemeinsame BewÃ¤hrungsprobe
 
 ## Offene Fragen
 
 - Welche Krise macht einen Ratsbruch unvermeidlich?
-- Kann die Gruppe Entscheidungen befrieden oder nur verzögern?
+- Kann die Gruppe Entscheidungen befrieden oder nur verzÃ¶gern?
+

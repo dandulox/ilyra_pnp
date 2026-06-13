@@ -1,4 +1,4 @@
----
+﻿---
 type: item
 name: Ratsmarke von Neufurt
 status: active
@@ -13,44 +13,45 @@ last_updated_in: Session 01 - Stimmen im Tau
 
 ## Kurzprofil
 
-Kleine Metallmarke mit eingeritztem Fährhaken und den drei Kerben des [[Rat von Neufurt]], ausgegeben an Personen, die im Namen der Siedlung handeln dürfen.
+Kleine Metallmarke mit eingeritztem FÃ¤hrhaken und den drei Kerben des [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]], ausgegeben an Personen, die im Namen der Siedlung handeln dÃ¼rfen.
 
 ## Aktueller Stand
 
-Gültig ab: [[Session 01 - Stimmen im Tau]]
+GÃ¼ltig ab: [[Session 01 - Stimmen im Tau]]
 Sichtbarkeit: Spielerwissen
 
-Die Gruppe kann eine [[Ratsmarke von Neufurt]] erhalten, wenn der [[Rat von Neufurt]] sich auf ein offizielles Mandat für den Aufbruch einigt. Die Marke erleichtert Zugang zu Vorräten, verschafft Glaubwürdigkeit gegenüber Einwohnern und macht zugleich sichtbar, wessen Auftrag die Gruppe trägt.
+Die Gruppe kann eine [[Ratsmarke von Neufurt]] erhalten, wenn der [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]] sich auf ein offizielles Mandat fÃ¼r den Aufbruch einigt. Die Marke erleichtert Zugang zu VorrÃ¤ten, verschafft GlaubwÃ¼rdigkeit gegenÃ¼ber Einwohnern und macht zugleich sichtbar, wessen Auftrag die Gruppe trÃ¤gt.
 
-## Bekannter Stand für Spieler
+## Bekannter Stand fÃ¼r Spieler
 
-- Die Marke ist kein Adelssiegel, sondern ein pragmatisches Zeichen für Verantwortung.
-- Wer sie trägt, spricht in bestimmten Fragen nicht nur für sich selbst.
-- Ihr Besitz kann Hilfe erleichtern, aber auch Misstrauen bei Freischürfern oder unabhängigen Stimmen auslösen.
+- Die Marke ist kein Adelssiegel, sondern ein pragmatisches Zeichen fÃ¼r Verantwortung.
+- Wer sie trÃ¤gt, spricht in bestimmten Fragen nicht nur fÃ¼r sich selbst.
+- Ihr Besitz kann Hilfe erleichtern, aber auch Misstrauen bei FreischÃ¼rfern oder unabhÃ¤ngigen Stimmen auslÃ¶sen.
 
 ## DM-Geheimnisse
 
-- Die drei Kerben lassen sich später politisch unterschiedlich deuten, je nachdem, welche Ratsstimme den Auftrag öffentlich beansprucht.
-- Eine verlorene oder gefälschte [[Ratsmarke von Neufurt]] könnte Misstrauen gegen die Gruppe schüren.
-- [[Tobin Grell]] würde die Marke eher als Kontrollsymbol denn als Schutzzeichen lesen.
+- Die drei Kerben lassen sich spÃ¤ter politisch unterschiedlich deuten, je nachdem, welche Ratsstimme den Auftrag Ã¶ffentlich beansprucht.
+- Eine verlorene oder gefÃ¤lschte [[Ratsmarke von Neufurt]] kÃ¶nnte Misstrauen gegen die Gruppe schÃ¼ren.
+- [[Tobin Grell]] wÃ¼rde die Marke eher als Kontrollsymbol denn als Schutzzeichen lesen.
 
 ## Entwicklung / Progression
 
-| Gültig ab | Änderung | Auslöser | Sichtbarkeit |
+| GÃ¼ltig ab | Ã„nderung | AuslÃ¶ser | Sichtbarkeit |
 |---|---|---|---|
-| [[Session 01 - Stimmen im Tau]] | Offizielles Mandatszeichen der Gruppe wird eingeführt | Einigung oder sichtbarer Streit im [[Rat von Neufurt]] | Spielerwissen |
+| [[Session 01 - Stimmen im Tau]] | Offizielles Mandatszeichen der Gruppe wird eingefÃ¼hrt | Einigung oder sichtbarer Streit im [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]] | Spielerwissen |
 
-## Frühere Versionen / Archiv
+## FrÃ¼here Versionen / Archiv
 
 Noch keine.
 
 ## Beziehungen
 
-- [[Rat von Neufurt]]: vergibt und deutet die Marke
+- [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]]: vergibt und deutet die Marke
 - [[Neufurt]]: erkennt die Marke als Zeichen offizieller Verantwortung
-- [[Tobin Grell]]: könnte die Marke als Provokation oder Kontrolle lesen
+- [[Tobin Grell]]: kÃ¶nnte die Marke als Provokation oder Kontrolle lesen
 
 ## Offene Fragen
 
-- Trägt die Gruppe die Marke offen oder nutzt sie sie nur situativ?
-- Welche Ratsstimme behauptet später, die Gruppe handle in ihrem Sinne?
+- TrÃ¤gt die Gruppe die Marke offen oder nutzt sie sie nur situativ?
+- Welche Ratsstimme behauptet spÃ¤ter, die Gruppe handle in ihrem Sinne?
+

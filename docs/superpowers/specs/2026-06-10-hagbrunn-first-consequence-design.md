@@ -46,7 +46,7 @@ Er zeigt:
 ## Betroffene Dateien im Universum
 
 - `Universe/Städte und Siedlungen/Hagbrunn.md`
-- `Universe/Regionen/Brasselmark - Der verschlossene Ernteanteil.md`
-- `Universe/Regionen/Brasselmark - Das erste Siegel von Hagbrunn.md`
+- `Universe/Regionen/Brasselmark/Brasselmark - Der verschlossene Ernteanteil.md`
+- `Universe/Regionen/Brasselmark/Brasselmark - Das erste Siegel von Hagbrunn.md`
 - `Universe/Regionen/Brasselmark.md`
 - `Universe/Städte und Siedlungen/Kornwacht.md`

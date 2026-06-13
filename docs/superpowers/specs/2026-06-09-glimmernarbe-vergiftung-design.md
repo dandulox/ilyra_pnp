@@ -9,14 +9,14 @@ Der Bogen wird so gebaut, dass die Gruppe ihn entdecken kann, aber nicht muss. W
 ## Ziel des Designs
 
 - den Früh-Arc um einen optionalen, spielbaren Diagnosepfad erweitern
-- die Gefahr von [[Schimmerglas]] von bloßer Resonanz zu einer konkreten sozialen und geistigen Bedrohung ausbauen
+- die Gefahr von [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] von bloßer Resonanz zu einer konkreten sozialen und geistigen Bedrohung ausbauen
 - den Spielern eine versteckte, aber faire Gelegenheit geben, die Eskalation früh zu erkennen
 - mit [[Dr. Mc Mallow]] einen nützlichen, aber riskanten Experten einführen
 - die Kampagne stärker verzahnen: Mysterium, Krankheit, Arbeitslager und Siedlungspolitik sollen sich gegenseitig beeinflussen
 
 ## Kernidee
 
-Die sogenannte `Glimmernarben-Vergiftung` ist keine gewöhnliche chemische oder rein magische Vergiftung. Sie ist eine Resonanzkrankheit, die sich aus längerer Nähe zur [[Die Glimmernarbe]], wiederholtem Kontakt mit [[Schimmerglas]] und emotionaler Offenheit für die dortigen Stimmen entwickelt. Frühe Symptome wirken hilfreich oder harmlos: ungewöhnliche Ruhe, gesteigerte Klarheit, Schlafmangel ohne Erschöpfungsgefühl, ein Gefühl tiefer Bedeutung und die Neigung, die Nähe des Fundorts wieder aufzusuchen.
+Die sogenannte `Glimmernarben-Vergiftung` ist keine gewöhnliche chemische oder rein magische Vergiftung. Sie ist eine Resonanzkrankheit, die sich aus längerer Nähe zur [[Die Glimmernarbe]], wiederholtem Kontakt mit [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] und emotionaler Offenheit für die dortigen Stimmen entwickelt. Frühe Symptome wirken hilfreich oder harmlos: ungewöhnliche Ruhe, gesteigerte Klarheit, Schlafmangel ohne Erschöpfungsgefühl, ein Gefühl tiefer Bedeutung und die Neigung, die Nähe des Fundorts wieder aufzusuchen.
 
 Später kippt die Krankheit:
 
@@ -145,7 +145,7 @@ Zu aktualisierende Dateien:
 - [[Session 03 - Unter der stillen Ader]]
 - [[Session 04 - Heimkehr mit fremdem Licht]]
 - [[Session 05 - Lichter unter Schwarzweiden]]
-- [[Schimmerglas]]
+- [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]]
 - [[Die Glimmernarbe]]
 - [[03 Offene Fragen]]
 - [[07 Progression Log]]
@@ -161,7 +161,7 @@ Zu aktualisierende Dateien:
 ### DM-Geheimnis
 
 - die Resonanzkrankheit ist real und fortschreitend
-- längerer Kontakt mit [[Schimmerglas]] und dem Fundort verstärkt sie
+- längerer Kontakt mit [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] und dem Fundort verstärkt sie
 - manche Wahnsinnsphasen fühlen sich für die Betroffenen wie Klarheit an
 
 ### Spätere Wahrheit

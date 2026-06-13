@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Eine erste spielbare Obsidian-Kampagnenbasis für [[Neufurt]] und [[Das Grenzland von Dornufer]] mit Kernnotizen, NSCs, Orten, Storyaufbau und Auftaktmission anlegen.
+**Goal:** Eine erste spielbare Obsidian-Kampagnenbasis für [[Neufurt]] und [[Campaigns/Neufurt/Orte/Das Grenzland von Dornufer|Das Grenzland von Dornufer]] mit Kernnotizen, NSCs, Orten, Storyaufbau und Auftaktmission anlegen.
 
 **Architecture:** Die Kampagne wird als verlinktes Obsidian-Wiki unter `Campaigns/Neufurt/` aufgebaut. Kernnotizen `00` bis `07` bilden die zentrale Übersicht; NSCs, Orte, Fraktionen, Missionen und Sessions werden als Einzeldateien mit YAML-Frontmatter, Wikilinks, `Gültig ab`-Markern und Progressionsabschnitten angelegt.
 
@@ -69,7 +69,7 @@ Content requirements:
 - [ ] **Step 2: Kernnotizen querverlinken**
 
 Run: `Get-Content '\\NAS-HOME\Brain\Obsidian\DND\Campaigns\Neufurt\00 Kampagne.md'`
-Expected: Wikilinks zu `[[Neufurt]]`, `[[Das Grenzland von Dornufer]]`, dem Rohstoff und ersten Missionen sind vorhanden.
+Expected: Wikilinks zu `[[Neufurt]]`, `[[Campaigns/Neufurt/Orte/Das Grenzland von Dornufer|Das Grenzland von Dornufer]]`, dem Rohstoff und ersten Missionen sind vorhanden.
 
 ### Task 3: Erste NSCs und Fraktionsachsen aufbauen
 

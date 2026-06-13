@@ -6,7 +6,7 @@ Der Vault soll nicht mehr primär kampagnengetrieben wachsen, sondern zuerst ein
 
 ## Ausgangslage
 
-Aktuell liegt der Schwerpunkt in `Campaigns/Neufurt/`. Dort befindet sich bereits allgemeines Weltwissen, das über die einzelne Kampagne hinaus brauchbar ist, zum Beispiel zu [[Das Grenzland von Dornufer]], [[Schimmerglas]] und grundlegenden sozialen, wirtschaftlichen und magischen Zusammenhängen.
+Aktuell liegt der Schwerpunkt in `Campaigns/Neufurt/`. Dort befindet sich bereits allgemeines Weltwissen, das über die einzelne Kampagne hinaus brauchbar ist, zum Beispiel zu [[Regionen/Das Grenzland von Dornufer|Das Grenzland von Dornufer]], [[Rohstoffe und Artefakte/Schimmerglas|Schimmerglas]] und grundlegenden sozialen, wirtschaftlichen und magischen Zusammenhängen.
 
 Diese Informationen sollen nicht verworfen werden. Allgemeingültige Inhalte werden schrittweise in einen zentralen Universumsbereich übernommen. Kampagnenspezifische Perspektiven, Geheimnisse, Missionsfolgen und Session-Konsequenzen bleiben in der jeweiligen Kampagne.
 
@@ -98,8 +98,8 @@ Diese Trennung ist wichtig, damit nicht jeder spannende Mythos automatisch als f
 
 Beispiele für wahrscheinliche Übernahmen:
 
-- [[Das Grenzland von Dornufer]] als Region oder Grenzraum
-- [[Schimmerglas]] als Rohstoff oder Phänomen
+- [[Regionen/Das Grenzland von Dornufer|Das Grenzland von Dornufer]] als Region oder Grenzraum
+- [[Rohstoffe und Artefakte/Schimmerglas|Schimmerglas]] als Rohstoff oder Phänomen
 - übergeordnete Aussagen zu Magie, Wirtschaft, religiöser Praxis und älteren Spuren im Land
 
 ## Daten- und Linklogik

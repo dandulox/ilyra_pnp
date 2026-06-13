@@ -40,11 +40,11 @@ Prüfe, ob Herkunft, Rolle und Konfliktbezug gemischt und klar ausgearbeitet sin
 ### Task 2: Machtorte und Stadt um die Figuren ergänzen
 
 **Files:**
-- Modify: `Universe/Städte und Siedlungen/Lysanor - Die Weißschieferburg.md`
-- Modify: `Universe/Städte und Siedlungen/Lysanor - Die Große Kanzlei.md`
-- Modify: `Universe/Städte und Siedlungen/Lysanor - Die Hallen von Vorrath.md`
-- Modify: `Universe/Städte und Siedlungen/Lysanor - Der Audienzhof.md`
-- Modify: `Universe/Städte und Siedlungen/Lysanor - Das Graue Archiv.md`
+- Modify: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Weißschieferburg.md`
+- Modify: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Große Kanzlei.md`
+- Modify: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Hallen von Vorrath.md`
+- Modify: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Der Audienzhof.md`
+- Modify: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Das Graue Archiv.md`
 - Modify: `Universe/Städte und Siedlungen/Lysanor.md`
 - Modify: `Universe/Personen/00 Index.md`
 

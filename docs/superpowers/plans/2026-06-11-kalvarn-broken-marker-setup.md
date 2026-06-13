@@ -13,7 +13,7 @@
 ### Task 1: Konfliktdossier anlegen
 
 **Files:**
-- Create: `Universe/Regionen/Kalvarn - Die gebrochene Marke der Wurmschneise.md`
+- Create: `Universe/Regionen/Kalvarn/Kalvarn - Die gebrochene Marke der Wurmschneise.md`
 
 - [x] **Step 1: Konfliktdossier schreiben**
 

@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Diese Kampagne ist eine DnD-5e-Frontier-Kampagne mit hoffnungsvollem Grundton, spürbaren Gefahren und einem Fokus auf Erkundung, Siedlungsaufbau und die politischen Folgen von Expeditionen. Der emotionale Anker ist die junge Grenzsiedlung [[Neufurt]], die gerade den ersten Winter überstanden hat. Das Spielgebiet ist [[Das Grenzland von Dornufer]], eine raue Region mit wertvollen Vorkommen eines magischen Rohstoffs.
+Diese Kampagne ist eine DnD-5e-Frontier-Kampagne mit hoffnungsvollem Grundton, spürbaren Gefahren und einem Fokus auf Erkundung, Siedlungsaufbau und die politischen Folgen von Expeditionen. Der emotionale Anker ist die junge Grenzsiedlung [[Neufurt]], die gerade den ersten Winter überstanden hat. Das Spielgebiet ist [[Campaigns/Neufurt/Orte/Das Grenzland von Dornufer|Das Grenzland von Dornufer]], eine raue Region mit wertvollen Vorkommen eines magischen Rohstoffs.
 
 Die Kampagne verbindet zwei Ebenen:
 
@@ -40,7 +40,7 @@ Die Spielergruppe wird zu Beginn gebraucht, weil sie die ersten Visionen und die
 
 ### Region
 
-[[Das Grenzland von Dornufer]] ist ein raues, nur teilweise kartiertes Grenzland. Es enthält Fundorte des magischen Rohstoffs, gefährliche Wildnisrouten und Spuren älterer Nutzung, ohne dass Ruinen zum alleinigen Kampagnenfokus werden.
+[[Campaigns/Neufurt/Orte/Das Grenzland von Dornufer|Das Grenzland von Dornufer]] ist ein raues, nur teilweise kartiertes Grenzland. Es enthält Fundorte des magischen Rohstoffs, gefährliche Wildnisrouten und Spuren älterer Nutzung, ohne dass Ruinen zum alleinigen Kampagnenfokus werden.
 
 ### Rohstoff
 

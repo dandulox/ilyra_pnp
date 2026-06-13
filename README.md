@@ -21,8 +21,8 @@ Ziel ist, dass kampagnenspezifische Ideen zuerst spielbar werden koennen und spa
   Einstieg in Struktur und Arbeitsweise des Vaults.
 - [Ilyra.md](/\\NAS-HOME/Brain/Obsidian/DND/Ilyra.md)
   Weltname und zentrale Oberseite im Root-Bereich.
-- [Dorn.md](/\\NAS-HOME/Brain/Obsidian/DND/Dorn.md), [Neufurt.md](/\\NAS-HOME/Brain/Obsidian/DND/Neufurt.md), [Das Grenzland von Dornufer.md](/\\NAS-HOME/Brain/Obsidian/DND/Das Grenzland von Dornufer.md)
-  Aeltere oder kampagnennahe Oberseiten im Root, die bei Bedarf spaeter weiter in `Campaigns/` oder `Universe/` einsortiert werden koennen.
+- [Dorn.md](/\\NAS-HOME/Brain/Obsidian/DND/Dorn.md), [Campaigns/Neufurt/Orte/Neufurt.md](/\\NAS-HOME/Brain/Obsidian/DND/Campaigns/Neufurt/Orte/Neufurt.md), [Universe/Regionen/Das Grenzland von Dornufer.md](/\\NAS-HOME/Brain/Obsidian/DND/Universe/Regionen/Das Grenzland von Dornufer.md)
+  Root enthaelt nur noch uebergeordnete Einstiegsknoten. Kampagnen- und Universumsinhalte wurden in ihre jeweiligen Bereiche einsortiert.
 - [Kampagnenstart.md](/\\NAS-HOME/Brain/Obsidian/DND/Kampagnenstart.md)
   Start- oder Bezugsdokument fuer das Spiel.
 
@@ -84,9 +84,9 @@ Bereits ausgearbeitet oder deutlich angelegt:
 
 Wichtige aktuelle Konfliktdateien:
 
-- [Brasselmark - Der verschlossene Ernteanteil](/\\NAS-HOME/Brain/Obsidian/DND/Universe/Regionen/Brasselmark - Der verschlossene Ernteanteil.md)
-- [Brasselmark - Das erste Siegel von Hagbrunn](/\\NAS-HOME/Brain/Obsidian/DND/Universe/Regionen/Brasselmark - Das erste Siegel von Hagbrunn.md)
-- [Brasselmark - Der Winterzoll von Riegelsteg](/\\NAS-HOME/Brain/Obsidian/DND/Universe/Regionen/Brasselmark - Der Winterzoll von Riegelsteg.md)
+- [Brasselmark - Der verschlossene Ernteanteil](/\\NAS-HOME/Brain/Obsidian/DND/Universe/Regionen/Brasselmark/Brasselmark - Der verschlossene Ernteanteil.md)
+- [Brasselmark - Das erste Siegel von Hagbrunn](/\\NAS-HOME/Brain/Obsidian/DND/Universe/Regionen/Brasselmark/Brasselmark - Das erste Siegel von Hagbrunn.md)
+- [Brasselmark - Der Winterzoll von Riegelsteg](/\\NAS-HOME/Brain/Obsidian/DND/Universe/Regionen/Brasselmark/Brasselmark - Der Winterzoll von Riegelsteg.md)
 
 Noch als Reichsbestand erwaehnt, aber noch nicht als eigene Regionsdateien angelegt:
 

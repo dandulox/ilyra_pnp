@@ -25,7 +25,7 @@
 
 **Files:**
 - Modify: `Universe/Städte und Siedlungen/Hagbrunn.md`
-- Modify: `Universe/Regionen/Brasselmark - Das erste Siegel von Hagbrunn.md`
+- Modify: `Universe/Regionen/Brasselmark/Brasselmark - Das erste Siegel von Hagbrunn.md`
 
 - [ ] **Step 1: Hagbrunn um Schlüsselfiguren, gespaltene Heimlichkeit und den Hahnbund ergänzen**
 - [ ] **Step 2: Das erste Siegel um die neue innere Dorfreaktion ergänzen**

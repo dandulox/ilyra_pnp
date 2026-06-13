@@ -1,4 +1,4 @@
----
+﻿---
 type: campaign
 name: Neufurt und die Glimmernarbe
 status: active
@@ -21,36 +21,36 @@ last_updated_in: Kampagnenstart
 
 ## Kurzpitch
 
-Eine junge Siedlung im [[Das Grenzland von Dornufer|Grenzland von Dornufer]] hat den ersten Winter nur knapp überlebt. Jetzt verspricht das neu entdeckte [[Schimmerglas]] Schutz, Werkzeuge und Wohlstand, doch zugleich mehren sich tröstende Visionen von Menschen, die bei einer frühen Expedition zur [[Die Glimmernarbe|Glimmernarbe]] verschwunden sind. Die Gruppe wird ausgesandt, um Wahrheit, Hoffnung und Gefahr auseinanderzuhalten.
+Eine junge Siedlung im [[Campaigns/Neufurt/Orte/Das Grenzland von Dornufer|Grenzland von Dornufer]] hat den ersten Winter nur knapp Ã¼berlebt. Jetzt verspricht das neu entdeckte [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] Schutz, Werkzeuge und Wohlstand, doch zugleich mehren sich trÃ¶stende Visionen von Menschen, die bei einer frÃ¼hen Expedition zur [[Die Glimmernarbe|Glimmernarbe]] verschwunden sind. Die Gruppe wird ausgesandt, um Wahrheit, Hoffnung und Gefahr auseinanderzuhalten.
 
 ## Thema
 
-- Hoffnung gegen Selbsttäuschung
+- Hoffnung gegen SelbsttÃ¤uschung
 - Gemeinschaft gegen Chancenlogik
 - Aufbruch in neues Land gegen die Last alter Verluste
 
 ## Ton
 
-Hoffnungsvoll, rau und menschlich. Das Grenzland ist gefährlich, aber nicht hoffnungslos. Die ersten Visionen wirken eher wie Trost als wie Horror.
+Hoffnungsvoll, rau und menschlich. Das Grenzland ist gefÃ¤hrlich, aber nicht hoffnungslos. Die ersten Visionen wirken eher wie Trost als wie Horror.
 
 ## Hauptkonflikt
 
-Die Gruppe muss klären, was mit der ersten Schürferfahrt zur [[Die Glimmernarbe]] geschehen ist und wie [[Schimmerglas]] mit den Visionen der Vermissten zusammenhängt.
+Die Gruppe muss klÃ¤ren, was mit der ersten SchÃ¼rferfahrt zur [[Die Glimmernarbe]] geschehen ist und wie [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] mit den Visionen der Vermissten zusammenhÃ¤ngt.
 
 ## Startpunkt
 
-[[Neufurt]] kurz nach dem ersten Winter. Die Vorräte reichen, aber nicht reichlich. Der [[Rat von Neufurt]] ist angespannt, die [[Die Freischürfer von Dornufer|Freischürfer von Dornufer]] wittern Gelegenheit, und erste Bewohner berichten von friedlichen Begegnungen mit Vermissten im Morgendunst.
+[[Neufurt]] kurz nach dem ersten Winter. Die VorrÃ¤te reichen, aber nicht reichlich. Der [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]] ist angespannt, die [[Die FreischÃ¼rfer von Dornufer|FreischÃ¼rfer von Dornufer]] wittern Gelegenheit, und erste Bewohner berichten von friedlichen Begegnungen mit Vermissten im Morgendunst.
 
 ## Zentrale Orte
 
 - [[Neufurt]]
-- [[Das Grenzland von Dornufer]]
+- [[Campaigns/Neufurt/Orte/Das Grenzland von Dornufer|Das Grenzland von Dornufer]]
 - [[Die Glimmernarbe]]
 
 ## Zentrale Fraktionen
 
-- [[Rat von Neufurt]]
-- [[Die Freischürfer von Dornufer]]
+- [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]]
+- [[Die FreischÃ¼rfer von Dornufer]]
 
 ## Zentrale NPCs
 
@@ -64,32 +64,33 @@ Die Gruppe muss klären, was mit der ersten Schürferfahrt zur [[Die Glimmernarb
 
 ### Akt 1: Erste Stimmen
 
-Die Gruppe untersucht Visionen, Vermissten-Spuren und die ersten Spannungen um [[Schimmerglas]]. Schon bei der Ankunft in [[Neufurt]] liegt spürbare Unruhe über den Straßen: Passanten tuscheln über Arbeiter, die nach der [[Die Glimmernarbe]] verändert zurückgekehrt seien, zu still, zu wach oder nicht mehr ganz bei sich.
+Die Gruppe untersucht Visionen, Vermissten-Spuren und die ersten Spannungen um [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]]. Schon bei der Ankunft in [[Neufurt]] liegt spÃ¼rbare Unruhe Ã¼ber den StraÃŸen: Passanten tuscheln Ã¼ber Arbeiter, die nach der [[Die Glimmernarbe]] verÃ¤ndert zurÃ¼ckgekehrt seien, zu still, zu wach oder nicht mehr ganz bei sich.
 
 ### Akt 2: Wachsende Bindung
 
-Fundorte, Rückkehrer oder Falschspuren verändern Machtverhältnisse in [[Neufurt]] und vertiefen die emotionale Abhängigkeit von den Visionen.
+Fundorte, RÃ¼ckkehrer oder Falschspuren verÃ¤ndern MachtverhÃ¤ltnisse in [[Neufurt]] und vertiefen die emotionale AbhÃ¤ngigkeit von den Visionen.
 
 ### Akt 3: Bewegung aus Hoffnung
 
-Aus Trost wird Richtung. Aus Richtung wird Überzeugung. Aus Überzeugung wird eine Bewegung, die entscheidet, was [[Neufurt]] künftig sein soll.
+Aus Trost wird Richtung. Aus Richtung wird Ãœberzeugung. Aus Ãœberzeugung wird eine Bewegung, die entscheidet, was [[Neufurt]] kÃ¼nftig sein soll.
 
 ## Aktueller Stand
 
-Gültig ab: [[Kampagnenstart]]
+GÃ¼ltig ab: [[Kampagnenstart]]
 
-[[Neufurt]] lebt noch von Disziplin, Improvisation und gegenseitiger Hilfe. [[Edric Vale]] drängt auf schnellen Abbau von [[Schimmerglas]], [[Mara Venn]] priorisiert Zusammenhalt und Versorgung, und [[Sera Kestel]] widersetzt sich jeder Machtkonzentration im Namen der Freiheit der Siedler. Die verschwundene erste Schürferfahrt hängt wie ein offener Riss über dem Ort. Seit wenigen Tagen berichten Bewohner wie [[Nera Holt]] von tröstenden Visionen der Vermissten.
-Zusätzlich flüstern viele Bewohner bereits über einen seltsamen Wahnsinn rund um die [[Die Glimmernarbe]]: Schlaflose Arbeiter, starre Gewohnheiten und Blicke, die zu lange ins Leere gehen.
+[[Neufurt]] lebt noch von Disziplin, Improvisation und gegenseitiger Hilfe. [[Edric Vale]] drÃ¤ngt auf schnellen Abbau von [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]], [[Mara Venn]] priorisiert Zusammenhalt und Versorgung, und [[Sera Kestel]] widersetzt sich jeder Machtkonzentration im Namen der Freiheit der Siedler. Die verschwundene erste SchÃ¼rferfahrt hÃ¤ngt wie ein offener Riss Ã¼ber dem Ort. Seit wenigen Tagen berichten Bewohner wie [[Nera Holt]] von trÃ¶stenden Visionen der Vermissten.
+ZusÃ¤tzlich flÃ¼stern viele Bewohner bereits Ã¼ber einen seltsamen Wahnsinn rund um die [[Die Glimmernarbe]]: Schlaflose Arbeiter, starre Gewohnheiten und Blicke, die zu lange ins Leere gehen.
 
-## Offene Handlungsstränge
+## Offene HandlungsstrÃ¤nge
 
-- Was geschah mit der ersten Schürferfahrt?
-- Ist [[Schimmerglas]] nur ein Resonanzstoff oder Teil eines größeren magischen Phänomens?
-- Wer gewinnt in [[Neufurt]] die Deutungshoheit über Hoffnung und Risiko?
+- Was geschah mit der ersten SchÃ¼rferfahrt?
+- Ist [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] nur ein Resonanzstoff oder Teil eines grÃ¶ÃŸeren magischen PhÃ¤nomens?
+- Wer gewinnt in [[Neufurt]] die Deutungshoheit Ã¼ber Hoffnung und Risiko?
 - Wie lange bleiben die Visionen friedlich?
 
-## Mögliche Enden
+## MÃ¶gliche Enden
 
-- [[Neufurt]] wird zu einer stabilen, vorsichtigen Siedlung mit kontrolliertem Umgang mit [[Schimmerglas]].
-- [[Neufurt]] zerfällt in Lager aus Glauben, Gier und Angst.
+- [[Neufurt]] wird zu einer stabilen, vorsichtigen Siedlung mit kontrolliertem Umgang mit [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]].
+- [[Neufurt]] zerfÃ¤llt in Lager aus Glauben, Gier und Angst.
 - Eine neue Ordnung entsteht, die Dornufer nicht nur besiedelt, sondern spirituell umdeutet.
+

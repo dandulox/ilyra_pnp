@@ -1,4 +1,4 @@
----
+﻿---
 type: campaign
 name: Kampagnenbuch - Neufurt und die Glimmernarbe
 status: active
@@ -18,7 +18,7 @@ last_updated_in: Session 05 - Lichter unter Schwarzweiden
 
 `Neufurt und die Glimmernarbe` ist eine Kampagne fuer eine Gruppe von Abenteurern, die in einer jungen Grenzsiedlung zwischen Hoffnung, Verlust und einem verlockenden magischen Rohstoff ihren Platz finden muessen. Diese Kampagne ist fuer Spielleitungen gedacht, die nicht nur Kaempfe und Dungeons leiten wollen, sondern eine Welt, in der jede Information politische Folgen hat, jede Rettung einen Preis verlangt und jede Hoffnung gefaehrlich nah an Selbsttaeuschung liegt.
 
-Im Zentrum der Kampagne steht [[Neufurt]], eine Siedlung, die den ersten Winter gerade eben ueberlebt hat. Weit draussen im [[Das Grenzland von Dornufer|Grenzland von Dornufer]] wurde [[Schimmerglas]] entdeckt, ein seltsam schimmernder Resonanzstoff, der Wohlstand, Schutz und Zukunft verspricht. Doch an der [[Die Glimmernarbe|Glimmernarbe]], dem Fundort dieses Stoffes, verschwand die erste Schuerferfahrt. Nun sprechen die Menschen in [[Neufurt]] von Vermissten, die morgens im Tau erscheinen, von stillen Stimmen am Dorn und von Arbeitern, die nicht mehr schlafen und dennoch nicht muede werden.
+Im Zentrum der Kampagne steht [[Neufurt]], eine Siedlung, die den ersten Winter gerade eben ueberlebt hat. Weit draussen im [[Campaigns/Neufurt/Orte/Das Grenzland von Dornufer|Grenzland von Dornufer]] wurde [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] entdeckt, ein seltsam schimmernder Resonanzstoff, der Wohlstand, Schutz und Zukunft verspricht. Doch an der [[Die Glimmernarbe|Glimmernarbe]], dem Fundort dieses Stoffes, verschwand die erste Schuerferfahrt. Nun sprechen die Menschen in [[Neufurt]] von Vermissten, die morgens im Tau erscheinen, von stillen Stimmen am Dorn und von Arbeitern, die nicht mehr schlafen und dennoch nicht muede werden.
 
 Diese Kampagne ist kein klassisches Heldenepos gegen eine klar erkennbare Finsternis. Ihre Bedrohung beginnt leise. Sie kommt nicht mit Flammen, Fangzaehnen oder Schlachthorden. Sie kommt mit Trost. Sie kommt mit dem Versprechen, dass Verlust vielleicht nicht endgueltig ist. Sie kommt mit der Idee, dass es irgendwo in Dornufer einen Ort gibt, an dem das Herz fuer einen Moment aufhoeren kann zu schmerzen. Genau deshalb ist sie gefaehrlich.
 
@@ -28,7 +28,7 @@ Die Gruppe betritt eine Welt, in der mehrere Konflikte zugleich gelaest werden m
 
 - Die Siedlung braucht Rohstoffe, aber der wichtigste Rohstoff ist mit einem unheimlichen Phaenomen verbunden.
 - Die Vermissten der ersten Schuerferfahrt koennten tot sein, lebendig sein oder in einem Zustand dazwischen gefangen sein.
-- Der [[Rat von Neufurt]] will Ordnung, waehrend die [[Die Freischürfer von Dornufer|Freischuerfer von Dornufer]] Freiheit und Eigenanspruch verteidigen.
+- Der [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]] will Ordnung, waehrend die [[Die FreischÃ¼rfer von Dornufer|Freischuerfer von Dornufer]] Freiheit und Eigenanspruch verteidigen.
 - Eine neue Krankheit, spaeter als `Glimmernarben-Vergiftung` bekannt, veraendert Menschen erst sanft und dann gewaltsam.
 - Jede Rueckkehr der Gruppe nach [[Neufurt]] veraendert die politische und soziale Lage.
 
@@ -64,7 +64,7 @@ Drittens: Kaempfe sind in dieser Kampagne bedeutsam, aber selten die eleganteste
 
 Dieser Abschnitt ist nur fuer die Spielleitung bestimmt.
 
-[[Schimmerglas]] ist kein gewoehnlicher magischer Rohstoff. Es ist ein Resonanzmedium. In kleinen Splittern speichert und verstaerkt es Stimmungen, Sehnsucht, Erinnerung und geistige Ausrichtung. In groesseren Vorkommen, besonders dort, wo es offen im Gestein liegt, wirkt es auf Menschen zurueck. Es beruhigt, sammelt, ordnet und lockt. Erst spaeter zerfrisst es.
+[[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] ist kein gewoehnlicher magischer Rohstoff. Es ist ein Resonanzmedium. In kleinen Splittern speichert und verstaerkt es Stimmungen, Sehnsucht, Erinnerung und geistige Ausrichtung. In groesseren Vorkommen, besonders dort, wo es offen im Gestein liegt, wirkt es auf Menschen zurueck. Es beruhigt, sammelt, ordnet und lockt. Erst spaeter zerfrisst es.
 
 Die [[Die Glimmernarbe|Glimmernarbe]] ist nicht bloss eine Mine. Sie ist ein Resonanzort. In ihr liegt ein ruhiges Feld, das Menschen nicht mit offenem Grauen angreift, sondern mit einem beinahe freundlichen Gefuehl von Klarheit und Naehe. Wer lange dort arbeitet, erlebt zuerst Erleichterung. Schlaf wird weniger noetig. Gedanken wirken sauberer. Stimmen von geliebten oder vermissten Personen werden glaubhaft. Dann beginnt ein Rueckkehrdrang. Danach folgt Zwang. Schliesslich loest sich die Grenze zwischen Trost und Unterwerfung auf.
 
@@ -114,17 +114,17 @@ Der Nordwall ist mehr Symbol als Festung, aber Symbole sind in jungen Siedlungen
 
 ### Der Rat von Neufurt
 
-Der [[Rat von Neufurt]] ist kein altes Herrschaftsgremium. Er ist eine Notwendigkeit, die noch nicht zur Tradition geworden ist. Jeder seiner drei wichtigen Koepfe will, dass die Siedlung ueberlebt, aber jeder versteht etwas anderes darunter.
+Der [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]] ist kein altes Herrschaftsgremium. Er ist eine Notwendigkeit, die noch nicht zur Tradition geworden ist. Jeder seiner drei wichtigen Koepfe will, dass die Siedlung ueberlebt, aber jeder versteht etwas anderes darunter.
 
 [[Mara Venn]] ist die Stimme der Versorgung, des Zusammenhalts und der vorsichtigen Verantwortung. Sie zaehlt nicht nur Brot und Holz, sondern auch Folgen.
 
-[[Edric Vale]] ist die Stimme von Zugriff, Tempo und Zukunft. Er glaubt aufrichtig, dass [[Neufurt]] ohne entschlossenen Umgang mit [[Schimmerglas]] zugrunde gehen wird.
+[[Edric Vale]] ist die Stimme von Zugriff, Tempo und Zukunft. Er glaubt aufrichtig, dass [[Neufurt]] ohne entschlossenen Umgang mit [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] zugrunde gehen wird.
 
 [[Sera Kestel]] ist die Stimme gegen Machtballung und Bevormundung. Sie glaubt, dass Notstaende fast immer laenger bleiben als ihre Begruendung.
 
 ### Die Freischuerfer von Dornufer
 
-Die [[Die Freischürfer von Dornufer|Freischuerfer von Dornufer]] sind eine lose, aber wachsende Interessengruppe aus Suchern, Jaegern, Traegern und Leuten, die nicht bereit sind, Wege, Funde und Risiko automatisch dem Rat zu ueberlassen.
+Die [[Die FreischÃ¼rfer von Dornufer|Freischuerfer von Dornufer]] sind eine lose, aber wachsende Interessengruppe aus Suchern, Jaegern, Traegern und Leuten, die nicht bereit sind, Wege, Funde und Risiko automatisch dem Rat zu ueberlassen.
 
 Ihr bekanntestes Gesicht ist [[Tobin Grell]]. Er ist kein klassischer Rebell, sondern jemand, der sofort spuert, wenn offizielle Ordnung beginnt, Besitz zu beanspruchen.
 
@@ -480,7 +480,7 @@ Die Gruppe steht hier vor einer echten Entscheidung:
 - Zerschlaegt sie einen gefaehrlichen Sammelpunkt?
 - Beschuetzt sie verwundbare Menschen vor [[Neufurt]]?
 - Bringt sie Betroffene zurueck und riskiert Panik oder Zwang?
-- Laesst sie das Lager bestehen und verstaerkt damit womöglich eine Bewegung?
+- Laesst sie das Lager bestehen und verstaerkt damit womÃ¶glich eine Bewegung?
 
 #### Begegnung: Wahn unter den Weiden
 
@@ -595,7 +595,7 @@ Nutze:
 
 Diese Szene zeigt, dass Resonanz nicht nur in Menschen wirkt, sondern auch in Orten selbst.
 
-### Kapitel 9: Das groeßere Lager
+### Kapitel 9: Das groeÃŸere Lager
 
 Spaeter kann aus dem kleinen stillen Sammelpunkt im [[Schwarzweidenbruch]] eine wirkliche soziale Alternative werden.
 
@@ -773,3 +773,4 @@ Belohne solche Entscheidungen mit Vertrauen, Informationen und spaeteren Verbund
 Das staerkste Ende dieser Kampagne ist selten eines, in dem alles geheilt und jede Frage beantwortet wurde. Am besten wirkt `Neufurt und die Glimmernarbe`, wenn am Ende genug Wahrheit ans Licht gekommen ist, dass [[Neufurt]] sich veraendern muss, aber nicht genug, um den Preis dieser Veraenderung klein zu machen.
 
 Wenn deine Spieler irgendwann nicht mehr fragen, welches Monster hinter all dem steckt, sondern welche Art von Zukunft sie fuer dieses Land verantworten koennen, dann funktioniert die Kampagne.
+

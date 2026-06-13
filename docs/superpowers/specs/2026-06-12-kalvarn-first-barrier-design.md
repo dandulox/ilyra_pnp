@@ -64,7 +64,7 @@ Damit wird `Kalvarn` nicht nur zum Raum alter Tiefe, sondern zum Raum, in dem se
 
 Wahrscheinlich zu erstellen oder zu aktualisieren:
 
-- `Universe/Regionen/Kalvarn - Der erste Sperrbalken der Wurmschneise.md`
+- `Universe/Regionen/Kalvarn/Kalvarn - Der erste Sperrbalken der Wurmschneise.md`
 - `Universe/Regionen/Kalvarn.md`
 - `Universe/Regionen/Wurmschneise.md`
 - `Universe/Städte und Siedlungen/Schwarzharz.md`

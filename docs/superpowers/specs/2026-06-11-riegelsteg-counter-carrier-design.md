@@ -47,7 +47,7 @@ Er zeigt:
 
 - `Universe/Personen/<neuer Fuhrmensch>.md`
 - `Universe/Städte und Siedlungen/Riegelsteg.md`
-- `Universe/Regionen/Brasselmark - Der Winterzoll von Riegelsteg.md`
+- `Universe/Regionen/Brasselmark/Brasselmark - Der Winterzoll von Riegelsteg.md`
 - `Universe/Städte und Siedlungen/Hagbrunn.md`
 - `Universe/Personen/00 Index.md`
 

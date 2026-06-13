@@ -1,4 +1,4 @@
----
+﻿---
 type: location
 name: Die Glimmernarbe
 region: Das Grenzland von Dornufer
@@ -15,50 +15,51 @@ last_updated_in: Kampagnenstart
 
 ## Kurzprofil
 
-Ein langer Riss aus dunklem Schiefer und blass schimmernden Einsprengseln, an dem die ersten nennenswerten Vorkommen von [[Schimmerglas]] entdeckt wurden.
+Ein langer Riss aus dunklem Schiefer und blass schimmernden Einsprengseln, an dem die ersten nennenswerten Vorkommen von [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] entdeckt wurden.
 
 ## Aktueller Stand
 
-Gültig ab: [[Kampagnenstart]]
+GÃ¼ltig ab: [[Kampagnenstart]]
 Sichtbarkeit: Spielerwissen
 
-Die [[Die Glimmernarbe|Glimmernarbe]] ist wirtschaftlich verlockend und emotional aufgeladen. Hier verschwand die erste Schürferfahrt, und hierher scheinen die jüngsten Visionen immer wieder zu weisen.
+Die [[Die Glimmernarbe|Glimmernarbe]] ist wirtschaftlich verlockend und emotional aufgeladen. Hier verschwand die erste SchÃ¼rferfahrt, und hierher scheinen die jÃ¼ngsten Visionen immer wieder zu weisen.
 
-## Bekannter Stand für Spieler
+## Bekannter Stand fÃ¼r Spieler
 
 - Der Weg dorthin ist steil, rutschig und schlecht gesichert.
-- Einzelne Proben von [[Schimmerglas]] stammen sicher von hier.
-- Mehr als ein Suchtrupp kehrte verunsichert oder zu früh um.
+- Einzelne Proben von [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] stammen sicher von hier.
+- Mehr als ein Suchtrupp kehrte verunsichert oder zu frÃ¼h um.
 
 ## DM-Geheimnisse
 
 - Im Gestein liegt eine ruhige, fast freundliche Resonanz, die Menschen tiefer locken kann.
-- Die Vermissten könnten nicht alle tot sein, aber auch nicht mehr frei über sich selbst verfügen.
-- Einige besonders glatte Steinflächen deuten auf alte Bearbeitung oder wiederholte Berührung durch Magie hin.
-- Längere Arbeit an offenen Adern fördert eine Resonanzkrankheit, die zunächst beruhigt und später zu Zwang und Wahn führt.
+- Die Vermissten kÃ¶nnten nicht alle tot sein, aber auch nicht mehr frei Ã¼ber sich selbst verfÃ¼gen.
+- Einige besonders glatte SteinflÃ¤chen deuten auf alte Bearbeitung oder wiederholte BerÃ¼hrung durch Magie hin.
+- LÃ¤ngere Arbeit an offenen Adern fÃ¶rdert eine Resonanzkrankheit, die zunÃ¤chst beruhigt und spÃ¤ter zu Zwang und Wahn fÃ¼hrt.
 
 ## Zustand des Ortes
 
-| Gültig ab | Zustand | Ursache | Sichtbarkeit |
+| GÃ¼ltig ab | Zustand | Ursache | Sichtbarkeit |
 |---|---|---|---|
-| [[Kampagnenstart]] | Ungesicherter Fundort mit Vermisstenbezug | Erste Schürferfahrt verschwand | Spielerwissen |
+| [[Kampagnenstart]] | Ungesicherter Fundort mit Vermisstenbezug | Erste SchÃ¼rferfahrt verschwand | Spielerwissen |
 
 ## Markante Elemente
 
-- obere Schutthänge mit lockeren Schieferplatten
-- halb eingestürztes Lager der ersten Schürferfahrt
-- schmale Stege über blanke Spalten
+- obere SchutthÃ¤nge mit lockeren Schieferplatten
+- halb eingestÃ¼rztes Lager der ersten SchÃ¼rferfahrt
+- schmale Stege Ã¼ber blanke Spalten
 - sanftes Leuchten in tieferen Adern bei Morgengrauen
-- auffällig sauber geordnete Werkzeuge, Notizen und Schlafplätze ehemaliger Arbeiter
+- auffÃ¤llig sauber geordnete Werkzeuge, Notizen und SchlafplÃ¤tze ehemaliger Arbeiter
 
 ## Beziehungen
 
-- [[Schimmerglas]]: zentrale Fundstelle
+- [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]]: zentrale Fundstelle
 - [[Nera Holt]]: Ort ihres Verlusts
 - [[Was von der Glimmernarbe ruft]]: Kern der Auftaktquest
 
 ## Offene Fragen
 
-- Warum wirkt die Resonanz hier tröstlich statt aggressiv?
+- Warum wirkt die Resonanz hier trÃ¶stlich statt aggressiv?
 - Was liegt unter dem sichtbaren Bruch wirklich?
 - Warum werden manche Arbeiter zuerst ruhiger, bevor sie geistig entgleisen?
+

@@ -1,4 +1,4 @@
-# Kanon-Index
+﻿# Kanon-Index
 
 ## Aktive Charaktere
 
@@ -12,7 +12,7 @@
 - [[Tobin Grell]]
 - [[Nera Holt]]
 
-## Gerüchtigte oder gesuchte NPCs
+## GerÃ¼chtigte oder gesuchte NPCs
 
 - [[Dr. Mc Mallow]]
 
@@ -20,23 +20,23 @@
 
 - [[Dain Holt]]
 - [[Halwen Pike]]
-- weitere Vermisste der ersten Schürferfahrt
+- weitere Vermisste der ersten SchÃ¼rferfahrt
 
 ## Aktive Orte
 
 - [[Neufurt]]
-- [[Das Grenzland von Dornufer]]
+- [[Campaigns/Neufurt/Orte/Das Grenzland von Dornufer|Das Grenzland von Dornufer]]
 - [[Die Glimmernarbe]]
 - [[Der Blanksteinpfad]]
 
-## Veränderte Orte
+## VerÃ¤nderte Orte
 
-- Noch keine bestätigten Veränderungen
+- Noch keine bestÃ¤tigten VerÃ¤nderungen
 
 ## Aktive Fraktionen
 
-- [[Rat von Neufurt]]
-- [[Die Freischürfer von Dornufer]]
+- [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]]
+- [[Die FreischÃ¼rfer von Dornufer]]
 
 ## Zerschlagene Fraktionen
 
@@ -57,7 +57,7 @@
 
 ## Relevante Items
 
-- [[Schimmerglas]]
+- [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]]
 - [[Ratsmarke von Neufurt]]
 - [[Blankstein-Werkzeugsatz]]
 - [[Befundheft der ersten Fahrt]]
@@ -66,10 +66,11 @@
 
 - [[Notiz an Mc Mallow]]
 
-## Wichtige Enthüllungen
+## Wichtige EnthÃ¼llungen
 
-| Enthüllung | Bekannt ab | Bekannt für |
+| EnthÃ¼llung | Bekannt ab | Bekannt fÃ¼r |
 |---|---|---|
 | Visionen der Vermissten treten in [[Neufurt]] auf | [[Kampagnenstart]] | Spielerwissen |
-| [[Schimmerglas]] steht wahrscheinlich mit den Visionen in Verbindung | Noch nicht bestätigt | DM-Geheimnis |
-| Längerer Kontakt mit [[Die Glimmernarbe]] kann eine schleichende Resonanzkrankheit auslösen | Noch nicht bestätigt | DM-Geheimnis |
+| [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]] steht wahrscheinlich mit den Visionen in Verbindung | Noch nicht bestÃ¤tigt | DM-Geheimnis |
+| LÃ¤ngerer Kontakt mit [[Die Glimmernarbe]] kann eine schleichende Resonanzkrankheit auslÃ¶sen | Noch nicht bestÃ¤tigt | DM-Geheimnis |
+

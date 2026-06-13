@@ -1,4 +1,4 @@
----
+﻿---
 type: universe-continent
 name: Narethis
 status: active
@@ -13,13 +13,13 @@ last_updated_in: 2026-06-10-velis-foundation
 
 ## Kurzprofil
 
-Der erste benannte Kontinent von `Ilyra`, auf dem das ausgearbeitete Königreich [[Velis]] liegt.
+Der erste benannte Kontinent von `Ilyra`, auf dem das ausgearbeitete KÃ¶nigreich [[Velis]] liegt.
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-10-velis-foundation
+GÃ¼ltig ab: 2026-06-10-velis-foundation
 
-Narethis dient zunächst als erster großer Weltmaßstab unterhalb von `Ilyra`. Noch ist der Kontinent nicht vollständig kartiert, aber mit [[Velis]] und [[Das Grenzland von Dornufer]] besitzt er bereits einen klaren spielbaren Einstiegspunkt.
+Narethis dient zunÃ¤chst als erster groÃŸer WeltmaÃŸstab unterhalb von `Ilyra`. Noch ist der Kontinent nicht vollstÃ¤ndig kartiert, aber mit [[Velis]] und [[Regionen/Das Grenzland von Dornufer|Das Grenzland von Dornufer]] besitzt er bereits einen klaren spielbaren Einstiegspunkt.
 
 ## Gesicherte Aussagen
 
@@ -28,12 +28,13 @@ Narethis dient zunächst als erster großer Weltmaßstab unterhalb von `Ilyra`. 
 
 ## Ausbaupfade
 
-- weitere Länder auf Narethis
+- weitere LÃ¤nder auf Narethis
 - Handels- und Grenzbeziehungen zu Velis
-- kulturelle Kontraste zu den westlichen Siedlungsräumen
+- kulturelle Kontraste zu den westlichen SiedlungsrÃ¤umen
 
 ## Relevante Verweise
 
-- [[00 Weltüberblick]]
+- [[00 WeltÃ¼berblick]]
 - [[Regionen/Velis]]
 - [[Regionen/Das Grenzland von Dornufer]]
+

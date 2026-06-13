@@ -54,7 +54,7 @@ Der Fall zeigt zum ersten Mal offen:
 
 Wahrscheinlich zu erstellen oder zu aktualisieren:
 
-- `Universe/Regionen/Kalvarn - Die gebrochene Marke der Wurmschneise.md`
+- `Universe/Regionen/Kalvarn/Kalvarn - Die gebrochene Marke der Wurmschneise.md`
 - `Universe/Regionen/Kalvarn.md`
 - `Universe/Regionen/Wurmschneise.md`
 - `Universe/Städte und Siedlungen/Schwarzharz.md`

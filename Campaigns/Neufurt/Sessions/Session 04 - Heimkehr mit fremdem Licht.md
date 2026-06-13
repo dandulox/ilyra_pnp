@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 session_number: 4
 title: Heimkehr mit fremdem Licht
@@ -21,27 +21,27 @@ tags:
 
 ## Vorbereitung
 
-- Die Rückkehr soll kein Ruhepunkt sein, sondern ein Beschleuniger.
+- Die RÃ¼ckkehr soll kein Ruhepunkt sein, sondern ein Beschleuniger.
 - Jedes mitgebrachte Wissen muss sofort soziale Folgen haben.
 - Lass die Gruppe merken, dass Wahrheit in [[Neufurt]] nie neutral ist.
 
 ## Zusammenfassung
 
-Die Gruppe kehrt von der [[Die Glimmernarbe]] nach [[Neufurt]] zurück und bringt Antworten, Halbwahrheiten oder belastendes Material mit. Statt Entlastung wächst Druck: Rat, Freischürfer und Trauernde versuchen gleichermaßen, die Deutung der Erkenntnisse an sich zu ziehen. Falls die Diagnose-Hinweise erkannt wurden, wird nun auch über eine mögliche Resonanzkrankheit und die Suche nach [[Dr. Mc Mallow]] gestritten; falls nicht, wirken erste Ausfälle unter Arbeitern nur wie zusätzliche Unruhe. Noch bevor sich die Lage beruhigt, deutet eine neue Spur in den [[Schwarzweidenbruch]].
+Die Gruppe kehrt von der [[Die Glimmernarbe]] nach [[Neufurt]] zurÃ¼ck und bringt Antworten, Halbwahrheiten oder belastendes Material mit. Statt Entlastung wÃ¤chst Druck: Rat, FreischÃ¼rfer und Trauernde versuchen gleichermaÃŸen, die Deutung der Erkenntnisse an sich zu ziehen. Falls die Diagnose-Hinweise erkannt wurden, wird nun auch Ã¼ber eine mÃ¶gliche Resonanzkrankheit und die Suche nach [[Dr. Mc Mallow]] gestritten; falls nicht, wirken erste AusfÃ¤lle unter Arbeitern nur wie zusÃ¤tzliche Unruhe. Noch bevor sich die Lage beruhigt, deutet eine neue Spur in den [[Schwarzweidenbruch]].
 
 ## Wichtige Ereignisse
 
-- Bericht oder Verhör vor dem [[Rat von Neufurt]]
+- Bericht oder VerhÃ¶r vor dem [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]]
 - Reaktion von [[Nera Holt]] auf neue Spuren zu [[Dain Holt]]
-- Streit um Sicherung, Verteilung oder Untersuchung von [[Schimmerglas]]
-- Entdeckte Diagnose-Hinweise lösen Debatten über Quarantäne, Geheimhaltung oder die Suche nach [[Dr. Mc Mallow]] aus
-- Wird der Hint übersehen, zeigen erste Arbeiter oder Träger offene Reizbarkeit, starre Rituale oder kurze Aussetzer
-- Erste Hinweise auf verschwundene Ausrüstung, heimliche Wege oder neue nächtliche Aufbrüche
+- Streit um Sicherung, Verteilung oder Untersuchung von [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]]
+- Entdeckte Diagnose-Hinweise lÃ¶sen Debatten Ã¼ber QuarantÃ¤ne, Geheimhaltung oder die Suche nach [[Dr. Mc Mallow]] aus
+- Wird der Hint Ã¼bersehen, zeigen erste Arbeiter oder TrÃ¤ger offene Reizbarkeit, starre Rituale oder kurze Aussetzer
+- Erste Hinweise auf verschwundene AusrÃ¼stung, heimliche Wege oder neue nÃ¤chtliche AufbrÃ¼che
 - Die Session endet mit einem Auftrag, einer Flucht oder einer frischen Spur in Richtung [[Schwarzweidenbruch]]
 
 ## Neue NPCs
 
-- Keine zwingend neuen, aber [[Halwen Pike]] kann jetzt öffentlich werden
+- Keine zwingend neuen, aber [[Halwen Pike]] kann jetzt Ã¶ffentlich werden
 
 ## Neue Orte
 
@@ -52,26 +52,26 @@ Die Gruppe kehrt von der [[Die Glimmernarbe]] nach [[Neufurt]] zurück und bring
 - [[Wem die Stimmen folgen]]
 - [[Auf der Suche nach dem Doc]] falls die Gruppe die Diagnose ernst nimmt
 
-## Geänderte bestehende Inhalte
+## GeÃ¤nderte bestehende Inhalte
 
-| Datei | Änderung | Gültig ab |
+| Datei | Ã„nderung | GÃ¼ltig ab |
 |---|---|---|
-| [[Neufurt]] | Rückkehrwissen verschärft Politik und Trauer | [[Session 04 - Heimkehr mit fremdem Licht]] |
-| [[Rat von Neufurt]] | Die Deutungshoheit über Visionen wird offen umkämpft | [[Session 04 - Heimkehr mit fremdem Licht]] |
+| [[Neufurt]] | RÃ¼ckkehrwissen verschÃ¤rft Politik und Trauer | [[Session 04 - Heimkehr mit fremdem Licht]] |
+| [[Campaigns/Neufurt/Fraktionen/Rat von Neufurt|Rat von Neufurt]] | Die Deutungshoheit Ã¼ber Visionen wird offen umkÃ¤mpft | [[Session 04 - Heimkehr mit fremdem Licht]] |
 | [[Auf der Suche nach dem Doc]] | Wird von Verdacht zu aktiv verfolgbarer Spur | [[Session 04 - Heimkehr mit fremdem Licht]] |
 
 ## Spielerwissen
 
-- Die Stimmen führen nicht nur zurück zur Vergangenheit, sondern weiter in neue Richtungen.
-- [[Neufurt]] ist für nüchterne Aufarbeitung fast zu verwundet.
-- Die nächste Gefahr kommt wahrscheinlich von Menschen, die freiwillig folgen.
-- Etwas an der Arbeit an der [[Die Glimmernarbe]] könnte Menschen schleichend krank machen.
+- Die Stimmen fÃ¼hren nicht nur zurÃ¼ck zur Vergangenheit, sondern weiter in neue Richtungen.
+- [[Neufurt]] ist fÃ¼r nÃ¼chterne Aufarbeitung fast zu verwundet.
+- Die nÃ¤chste Gefahr kommt wahrscheinlich von Menschen, die freiwillig folgen.
+- Etwas an der Arbeit an der [[Die Glimmernarbe]] kÃ¶nnte Menschen schleichend krank machen.
 
 ## DM-Geheimnisse, die weiterhin geheim bleiben
 
-- Ein erstes stilles Lager könnte bereits im [[Schwarzweidenbruch]] entstehen.
+- Ein erstes stilles Lager kÃ¶nnte bereits im [[Schwarzweidenbruch]] entstehen.
 - Nicht jede verschwundene Probe wurde gestohlen; manche wurde freiwillig herausgegeben.
-- Ohne Gegenmaßnahmen verschlechtert sich die `Glimmernarben-Vergiftung` bei den Arbeitern weiter.
+- Ohne GegenmaÃŸnahmen verschlechtert sich die `Glimmernarben-Vergiftung` bei den Arbeitern weiter.
 
 ## Offene Fragen
 
@@ -79,6 +79,7 @@ Die Gruppe kehrt von der [[Die Glimmernarbe]] nach [[Neufurt]] zurück und bring
 - Wird aus Schutz schnell Kontrolle?
 - Ist [[Dr. Mc Mallow]] Rettung, Risiko oder beides?
 
-## Nächster Einstieg
+## NÃ¤chster Einstieg
 
-Am Rand des Versorgungshauses fehlen am Morgen nicht nur zwei Werkzeuge, sondern auch ein kleiner Beutel mit registrierten Splittern von [[Schimmerglas]].
+Am Rand des Versorgungshauses fehlen am Morgen nicht nur zwei Werkzeuge, sondern auch ein kleiner Beutel mit registrierten Splittern von [[Campaigns/Neufurt/Items/Schimmerglas|Schimmerglas]].
+

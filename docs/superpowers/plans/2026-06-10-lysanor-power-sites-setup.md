@@ -13,11 +13,11 @@
 ### Task 1: Fünf Machtort-Dossiers anlegen
 
 **Files:**
-- Create: `Universe/Städte und Siedlungen/Lysanor - Die Weißschieferburg.md`
-- Create: `Universe/Städte und Siedlungen/Lysanor - Die Große Kanzlei.md`
-- Create: `Universe/Städte und Siedlungen/Lysanor - Die Hallen von Vorrath.md`
-- Create: `Universe/Städte und Siedlungen/Lysanor - Der Audienzhof.md`
-- Create: `Universe/Städte und Siedlungen/Lysanor - Das Graue Archiv.md`
+- Create: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Weißschieferburg.md`
+- Create: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Große Kanzlei.md`
+- Create: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Hallen von Vorrath.md`
+- Create: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Der Audienzhof.md`
+- Create: `Universe/Städte und Siedlungen/Lysanor/Lysanor - Das Graue Archiv.md`
 
 - [ ] **Step 1: `Die Weißschieferburg` als königlichen Hauptsitz schreiben**
 

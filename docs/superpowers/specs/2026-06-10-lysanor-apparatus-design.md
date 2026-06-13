@@ -82,11 +82,11 @@ Die sieben Figuren sollen sich entlang dieser Spannungen verorten:
 Wahrscheinlich zu erstellen oder zu aktualisieren:
 
 - neue Personendossiers unter `Universe/Personen/`
-- `Universe/Städte und Siedlungen/Lysanor - Die Weißschieferburg.md`
-- `Universe/Städte und Siedlungen/Lysanor - Die Große Kanzlei.md`
-- `Universe/Städte und Siedlungen/Lysanor - Die Hallen von Vorrath.md`
-- `Universe/Städte und Siedlungen/Lysanor - Der Audienzhof.md`
-- `Universe/Städte und Siedlungen/Lysanor - Das Graue Archiv.md`
+- `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Weißschieferburg.md`
+- `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Große Kanzlei.md`
+- `Universe/Städte und Siedlungen/Lysanor/Lysanor - Die Hallen von Vorrath.md`
+- `Universe/Städte und Siedlungen/Lysanor/Lysanor - Der Audienzhof.md`
+- `Universe/Städte und Siedlungen/Lysanor/Lysanor - Das Graue Archiv.md`
 - `Universe/Städte und Siedlungen/Lysanor.md`
 - `Universe/Personen/00 Index.md`
 

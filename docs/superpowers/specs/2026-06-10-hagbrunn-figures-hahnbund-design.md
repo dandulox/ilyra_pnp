@@ -84,5 +84,5 @@ Er zeigt:
 - `Universe/Personen/Vorsteher Eirik Damm.md`
 - `Universe/Fraktionen/Der Hahnbund.md`
 - `Universe/Städte und Siedlungen/Hagbrunn.md`
-- `Universe/Regionen/Brasselmark - Das erste Siegel von Hagbrunn.md`
+- `Universe/Regionen/Brasselmark/Brasselmark - Das erste Siegel von Hagbrunn.md`
 - `Universe/Personen/00 Index.md`
