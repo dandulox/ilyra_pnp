@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - glossary
-last_updated_in: 2026-06-11-kalvarn-foundation
+last_updated_in: 2026-06-12-kalvarn-alke-renn
 ---
 
 # Universums-Glossar
@@ -25,8 +25,14 @@ Diese Datei sammelt kanonische Begriffe, bevorzugte Schreibweisen und kurze Defi
 | Aurenhal | Hof- und Verwaltungskanton von Velis | [[Regionen/Aurenhal]] |
 | Brasselmark | fruchtbarer, aber ausgezehrter Abgabekanton von Velis | [[Regionen/Brasselmark]] |
 | Kalvarn | ausgezehrter Nutzwald- und Rohstoffkanton von Velis | [[Regionen/Kalvarn]] |
+| Die gebrochene Marke der Wurmschneise | erster offener Konfliktfall Kalvarns um Schneisenausbau, alte Marke und freigelegte Seitenlinie | [[Kalvarn - Die gebrochene Marke der Wurmschneise]] |
+| Der erste Sperrbalken der Wurmschneise | erste direkte Folgeeskalation des Markerbruchs, bei der Halmar Veyn eine sichtbare Sperrung an der Wurmschneise errichten lässt | [[Kalvarn - Der erste Sperrbalken der Wurmschneise]] |
+| Halmar Veyn | Forstvogt von Kalvarn und sichtbarer Verwaltungsarm der Linie von Lady Ysara Vaelren | [[Halmar Veyn]] |
+| Ofenmeister Brann Velde | rußiger Sprecher der Pechöfen von Schwarzharz und personifizierter Rückstaudruck auf die Wurmschneise | [[Ofenmeister Brann Velde]] |
+| Wegmutter Alke Renn | geachtete Warn- und Erinnerungsstimme aus Stillrain für Seitenzüge, Vorsicht und alte Wegpflichten | [[Wegmutter Alke Renn]] |
 | Lysanor | Hauptstadt von Aurenhal und höfischer Machtort von Velis | [[Städte und Siedlungen/Lysanor]] |
 | Kornwacht | harter Zentralort von Brasselmark für Erfassung, Lagerung und Abgabe | [[Städte und Siedlungen/Kornwacht]] |
+| Rainhüter | alte Dienstfamilie und Dienstsippe von Kalvarn mit starkem Weg- und Warnwissen | [[Fraktionen/Rainhüter]] |
 | Schwarzharz | rußiger Arbeitsort von Kalvarn für Pechöfen, Holzlager und Abtransport | [[Städte und Siedlungen/Schwarzharz]] |
 | Stillrain | kleine Waldsiedlung von Kalvarn mit starkem Warn- und Ortswissen | [[Städte und Siedlungen/Stillrain]] |
 | Wurmschneise | alte Haupttrasse durch Kalvarn zwischen Materialfluss und gemiedenen Zonen | [[Regionen/Wurmschneise]] |
@@ -47,4 +53,4 @@ Diese Datei sammelt kanonische Begriffe, bevorzugte Schreibweisen und kurze Defi
 
 Neue Begriffe sollten hier eingetragen werden, sobald sie kampagnenübergreifend relevant werden oder häufig in Dossiers auftauchen.
 
-Gültig ab: 2026-06-11-kalvarn-foundation
+Gültig ab: 2026-06-12-kalvarn-alke-renn

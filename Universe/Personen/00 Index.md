@@ -7,7 +7,7 @@ tags:
   - universe
   - person
   - index
-last_updated_in: 2026-06-11-riegelsteg-counter-carrier
+last_updated_in: 2026-06-12-kalvarn-brann-velde
 ---
 
 # Personen
@@ -53,6 +53,12 @@ Diese Datei sammelt bedeutende Persönlichkeiten, die über eine einzelne Kampag
 - [[Vollstrecker Marolt Vey]]
 - [[Speichermeisterin Dema Rhul]]
 
+## Kalvarn-Apparat
+
+- [[Halmar Veyn]]
+- [[Ofenmeister Brann Velde]]
+- [[Wegmutter Alke Renn]]
+
 ## Hagbrunn
 
 - [[Alwene Hargast]]
@@ -65,4 +71,4 @@ Diese Datei sammelt bedeutende Persönlichkeiten, die über eine einzelne Kampag
 - [[Brückenwart Hobb Kerlen]]
 - [[Wagenlenker Jerrik Voss]]
 
-Gültig ab: 2026-06-11-riegelsteg-counter-carrier
+Gültig ab: 2026-06-12-kalvarn-alke-renn

@@ -7,7 +7,7 @@ tags:
   - universe
   - faction
   - kalvarn
-last_updated_in: 2026-06-11-kalvarn-governance-setup
+last_updated_in: 2026-06-12-kalvarn-first-barrier
 ---
 
 # Rainhüter
@@ -18,9 +18,9 @@ Eine alte Dienstfamilie und lose Dienstsippe aus [[Regionen/Kalvarn]], deren Wis
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-11-kalvarn-governance-setup
+Gültig ab: 2026-06-12-kalvarn-first-barrier
 
-Die [[Rainhüter]] dienen offiziell dem Forstamt von [[Halmar Veyn]], doch ihr Wert liegt tiefer als bloße Botenschaft oder Begleitung. Sie lesen die Wege von [[Regionen/Kalvarn]], kennen die verlässlichen Übergänge um [[Städte und Siedlungen/Stillrain]] und entscheiden oft still darüber mit, welche Nutzung an der [[Regionen/Wurmschneise]] tragfähig bleibt und welche Grenze besser unangetastet bleibt.
+Die [[Rainhüter]] dienen offiziell dem Forstamt von [[Halmar Veyn]], doch ihr Wert liegt tiefer als bloße Botenschaft oder Begleitung. Sie lesen die Wege von [[Regionen/Kalvarn]], kennen die verlässlichen Übergänge um [[Städte und Siedlungen/Stillrain]] und geben oft jene Warnungen und Korrekturen, die an der [[Regionen/Wurmschneise]] zwischen tragfähiger Nutzung und blindem Zugriff unterscheiden.
 
 ## Gesicherte Aussagen
 
@@ -38,9 +38,13 @@ Die [[Rainhüter]] dienen offiziell dem Forstamt von [[Halmar Veyn]], doch ihr W
 
 ## Innere Spannungen
 
-- Die Rainhüter sichern Kalvarns Nutzbarkeit und bremsen zugleich blinde Nutzung.
+- Die Rainhüter sichern Kalvarns Nutzbarkeit und bremsen zugleich manche blinde Nutzung.
 - Sie dienen der Ordnung von [[Lady Ysara Vaelren]], ohne ihr Wissen vollständig in Amtsform aufgehen zu lassen.
 - Wenn Warnungen aus [[Städte und Siedlungen/Stillrain]] übergangen werden, tragen oft sie die Folgen zuerst.
+
+Im Fall [[Kalvarn - Die gebrochene Marke der Wurmschneise]] wird diese Lage offen: Sie erkennen die freigelegte Seitenlinie sofort als lange gemiedene Setzung, ohne dass das Amt daraus schon dieselbe Folgerung ziehen könnte.
+
+Mit [[Kalvarn - Der erste Sperrbalken der Wurmschneise]] verschärft sich diese Lage. Die Rainhüter gewinnen zwar Raum für Warnung, sehen aber zugleich, wie das Amt eine alte Lage mit eigenem Zeichen und begrenztem Durchlass überzieht.
 
 ## Verbundene Orte und Figuren
 
@@ -48,11 +52,14 @@ Die [[Rainhüter]] dienen offiziell dem Forstamt von [[Halmar Veyn]], doch ihr W
 - [[Lady Ysara Vaelren]]: ferne Herrin, deren Zugriff sie indirekt ermöglichen
 - [[Halmar Veyn]]: offizieller Vorgesetzter und täglicher Reibungspunkt
 - [[Städte und Siedlungen/Stillrain]]: Ort mit hoher Glaubwürdigkeit für ihr Warnwissen
+- [[Wegmutter Alke Renn]]: Stimme, die den kulturellen Rückhalt lokaler Vorsicht formuliert
 - [[Regionen/Wurmschneise]]: wichtigste Konfliktlinie zwischen Amt und Weglesung
+- [[Kalvarn - Die gebrochene Marke der Wurmschneise]]: erster offener Konfliktfall, in dem ihr Warnwissen amtlich nicht mehr übergangen werden kann
+- [[Kalvarn - Der erste Sperrbalken der Wurmschneise]]: erste Folgeeskalation, in der Warnwissen und amtliche Sperrform direkt kollidieren
 
 ## Bedeutung für Kalvarn
 
-Die Rainhüter sind das stille zweite Fundament des Kantons. Wo [[Halmar Veyn]] Rechte spricht und [[Lady Ysara Vaelren]] Materialfluss sichert, halten sie Kalvarn begehbar, lesbar und gerade noch benutzbar. Darum sind sie weder Rebellen noch bloße Diener, sondern jene lokale Gegenseite, ohne die offizielle Herrschaft im Wald zu kurz greifen würde.
+Die Rainhüter sind ein altes praktisches Rückgrat des Kantons. Wo [[Halmar Veyn]] Rechte spricht und [[Lady Ysara Vaelren]] Materialfluss sichert, halten sie Teile von Kalvarn begehbar, lesbar und benutzbar. Darum sind sie weder Rebellen noch bloße Diener, sondern ein lokaler Beständigkeitsfaktor, ohne den offizielle Herrschaft im Wald häufiger fehlgreifen würde.
 
 ## Relevante Verweise
 

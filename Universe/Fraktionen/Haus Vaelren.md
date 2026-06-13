@@ -7,7 +7,7 @@ tags:
   - universe
   - faction
   - dynasty
-last_updated_in: 2026-06-11-kalvarn-foundation
+last_updated_in: 2026-06-11-kalvarn-governance-setup
 ---
 
 # Haus Vaelren
@@ -18,7 +18,7 @@ Das herrschende Königshaus von [[Regionen/Velis]] und zugleich der zentrale Ade
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-11-kalvarn-foundation
+Gültig ab: 2026-06-11-kalvarn-governance-setup
 
 Haus Vaelren hält Velis nicht nur über die Krone, sondern über ein dichtes Netz verwandtschaftlicher Zuständigkeiten. Blutlinie, Verwaltung, Abgabe und religiöse Legitimation greifen ineinander.
 
@@ -67,6 +67,8 @@ Der härteste wirtschaftliche Griff des Hauses liegt in [[Regionen/Brasselmark]]
 
 In [[Regionen/Kalvarn]] erscheint Macht ruhiger, aber nicht weniger tief. Die Linie von [[Lady Ysara Vaelren]] hält dort Zugriff auf Holz, Pech, Arbeitsketten und Wege, bleibt aber stärker als andere Linien auf das Erfahrungswissen lokaler Waldleute angewiesen.
 
+Ihr sichtbarer Arm vor Ort ist [[Halmar Veyn]], der als Forstvogt Holzrechte, Wegaufsicht und Transportordnung zusammenhält. Gerade dadurch wird aber auch sichtbar, dass selbst ein belastbares Amt in Kalvarn ohne Gruppen wie die [[Rainhüter]] schneller fehlgreift als in anderen Kantonen.
+
 ## Relevante Verweise
 
 - [[Regionen/Velis]]
@@ -76,6 +78,8 @@ In [[Regionen/Kalvarn]] erscheint Macht ruhiger, aber nicht weniger tief. Die Li
 - [[Städte und Siedlungen/Lysanor]]
 - [[Städte und Siedlungen/Kornwacht]]
 - [[Städte und Siedlungen/Schwarzharz]]
+- [[Halmar Veyn]]
+- [[Rainhüter]]
 - [[Religionen/Die Lehre vom Hohllicht]]
 - [[03 Mächte und Konfliktachsen]]
 - [[Haus Vaelren - Familienstruktur]]

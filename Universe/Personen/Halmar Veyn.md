@@ -8,7 +8,7 @@ tags:
   - person
   - official
   - kalvarn
-last_updated_in: 2026-06-11-kalvarn-governance-setup
+last_updated_in: 2026-06-12-kalvarn-first-barrier
 ---
 
 # Halmar Veyn
@@ -19,7 +19,7 @@ Der offizielle Forstvogt von [[Regionen/Kalvarn]] und der ruhige Verwaltungsarm 
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-11-kalvarn-governance-setup
+Gültig ab: 2026-06-12-kalvarn-first-barrier
 
 [[Halmar Veyn]] verwaltet Kalvarn nicht als Waldkundiger, sondern als belastbarer Amtsträger. Er hält Freigaben, Wegaufsicht und Transportauflagen zusammen, während seine Autorität in den tieferen Teilen des Kantons praktisch auf das Erfahrungswissen der [[Rainhüter]] angewiesen bleibt.
 
@@ -34,7 +34,7 @@ Gültig ab: 2026-06-11-kalvarn-governance-setup
 - Halmar Veyn dient als offizieller Forstvogt unter [[Lady Ysara Vaelren]].
 - Freigaben für Fällung, Wegnutzung und Lastverkehr laufen sichtbar über sein Amt.
 - Seine Ordnungsmacht reicht in den unruhigeren Teilen Kalvarns ohne die [[Rainhüter]] nur begrenzt weit.
-- Besonders an der [[Regionen/Wurmschneise]] prallen Amtsbefehl und richtige Weglesung aufeinander.
+- Besonders an der [[Regionen/Wurmschneise]] prallen Amtsbefehl und lokales Wegwissen oft hart aufeinander.
 
 ## Amtsstil in Kalvarn
 
@@ -49,6 +49,10 @@ Gültig ab: 2026-06-11-kalvarn-governance-setup
 - Jede sichtbare Abhängigkeit von den [[Rainhüter]]n schwächt seinen Amtsanspruch nach außen.
 - Aus [[Städte und Siedlungen/Stillrain]] kommen oft die glaubwürdigsten Warnungen, aber gerade das macht sie politisch unbequem.
 
+Mit [[Kalvarn - Die gebrochene Marke der Wurmschneise]] gerät genau diese Spannung erstmals offen ins Licht. Der von ihm gebilligte Ausbau trifft auf eine alte Setzung, und sein Baustopp zeigt zugleich Vorsicht, Autoritätsschutz und die Angst vor einem Deutungsvakuum.
+
+Mit [[Kalvarn - Der erste Sperrbalken der Wurmschneise]] macht Halmar daraus die erste sichtbare Verwaltungsmaßnahme. Der Balken hält nicht nur Arbeit zurück, sondern bindet Passage, Sprache und Verantwortung enger an sein Amt.
+
 ## Hintergrund
 
 Halmar Veyn wurde nicht gewählt, um den Wald zu deuten, sondern um ihn für Herrschaft lesbar zu machen. [[Lady Ysara Vaelren]] nutzt ihn als verlässliche Schnittstelle zwischen Linie, Arbeit und Abtransport: ein Mann, der keine großen Reden braucht, solange Holz bewegt, Pech gebrannt und Wege offen gehalten werden. In [[Regionen/Kalvarn]] ist das genug, um gefürchtet und gebraucht zu werden, aber nicht genug, um ohne lokale Wegkunde sicher zu herrschen.
@@ -56,10 +60,15 @@ Halmar Veyn wurde nicht gewählt, um den Wald zu deuten, sondern um ihn für Her
 ## Beziehungen
 
 - [[Lady Ysara Vaelren]]: Herrin und politische Auftraggeberin
-- [[Rainhüter]]: offizielle Unterstellte und praktische Grenze seiner Amtsmacht
+- [[Rainhüter]]: dem Amt unterstellte Waldleute, deren Wissen sich seiner Ordnung nie ganz fügt
+- [[Ofenmeister Brann Velde]]: Sprecher des Rückstaudrucks aus Schwarzharz
 - [[Städte und Siedlungen/Stillrain]]: Ort von Warnwissen, das er nicht ignorieren kann
 - [[Regionen/Wurmschneise]]: wichtigster Prüfstein seiner Wegaufsicht
+- [[Kalvarn - Die gebrochene Marke der Wurmschneise]]: erster offener Konfliktfall seiner Amtsführung in Kalvarn
+- [[Kalvarn - Der erste Sperrbalken der Wurmschneise]]: erste sichtbare Sperr- und Zugriffsmaßnahme seiner Amtsführung
 
 ## Rolle in Kalvarn
 
 Halmar Veyn verkörpert die offizielle Seite von Kalvarns Ordnung: nicht die Herrschaft der Blutlinie selbst, sondern ihre Hand an Holz, Wegen und stiller Durchsetzung.
+
+In [[Städte und Siedlungen/Schwarzharz]] wird seine Logik aus Zählung, Brennen, Lagern und Verladen administrativ sichtbar.

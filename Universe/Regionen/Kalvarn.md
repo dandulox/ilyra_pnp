@@ -7,7 +7,7 @@ tags:
   - universe
   - canton
   - forest
-last_updated_in: 2026-06-11-kalvarn-foundation
+last_updated_in: 2026-06-12-kalvarn-first-barrier
 ---
 
 # Kalvarn
@@ -18,7 +18,7 @@ Der ausgezehrte Nutzwaldkanton von [[Velis]], dessen Holz, Pech und Wege für di
 
 ## Aktueller Stand
 
-Gültig ab: 2026-06-11-kalvarn-foundation
+Gültig ab: 2026-06-12-kalvarn-first-barrier
 
 [[Kalvarn]] ist ein Wald- und Rohstoffkanton von [[Velis]], aber kein stiller Vorratsraum. Der Kanton lebt von Fällung, Köhlerei, Harzgewinnung, Pechbrennen und dem Offenhalten schwieriger Wege. Je stärker diese Nutzung wird, desto lichter und unruhiger wird der Wald. Gerade dadurch treten ältere Wegordnungen, Steinmale und eingewachsene Kultorte wieder hervor.
 
@@ -27,7 +27,7 @@ Gültig ab: 2026-06-11-kalvarn-foundation
 - Kalvarn gehört als Kanton zu [[Velis]].
 - Der Kanton ist wirtschaftlich vor allem durch Holz, Harz, Kohle, Pech und Wegefähigkeit relevant.
 - Die formelle Herrschaft liegt bei der Linie von [[Lady Ysara Vaelren]].
-- Praktische Sicherheit und Nutzbarkeit hängen stark von Förstern, Köhlern, Harzsammlern und Wegekundigen ab.
+- Praktische Sicherheit und Nutzbarkeit hängen stark von Förstern, Köhlern, Harzsammlern, Wegekundigen und den [[Rainhüter]]n ab.
 
 ## Struktur des Kantons
 
@@ -45,6 +45,14 @@ Kalvarn zeigt die ruhigere, aber nicht mildere Seite von [[Haus Vaelren]]. Währ
 
 Die Linie von [[Lady Ysara Vaelren]] hält den Kanton mit nüchterner Hand. Sie stützt sich weniger auf sichtbaren Zwang als auf Verwalter, loyale Arbeitsketten und die Abhängigkeit der Orte von Materialfluss und Schutz.
 
+Ihr sichtbarer Verwaltungsarm vor Ort ist [[Halmar Veyn]], der als Forstvogt Schlagrechte, Wegaufsicht und Transportauflagen bündelt. Gerade weil sein Amt den Wald nicht selbst lesen kann, bleibt er in entscheidenden Teilen des Kantons auf das Warn- und Wegwissen der [[Rainhüter]] angewiesen.
+
+So entsteht in Kalvarn eine gespannte, aber funktionsfähige Dreiecksordnung:
+
+- [[Lady Ysara Vaelren]] will Kontrolle ohne offenen Lärm
+- [[Halmar Veyn]] will Ordnung ohne Gesichtsverlust
+- die [[Rainhüter]] halten Nutzbarkeit und Vorsicht im Wald gegeneinander ausbalanciert
+
 ## Zentrale Konfliktlinien
 
 - neue Fällungen stoßen auf alte Marker und Kultorte
@@ -52,6 +60,12 @@ Die Linie von [[Lady Ysara Vaelren]] hält den Kanton mit nüchterner Hand. Sie 
 - Waldleute verzögern, lenken oder begrenzen Arbeit aus Vorsicht, nicht nur aus Widerstand
 - die herrschaftliche Ebene deutet Warnwissen leicht als Aberglauben oder Ungehorsam
 - jeder weitere Zugriff macht den Kanton zugleich nutzbarer und gefährlicher
+
+## Erster offener Konfliktfall
+
+Mit [[Kalvarn - Die gebrochene Marke der Wurmschneise]] wird diese Grundspannung erstmals offen sichtbar. Eine von [[Halmar Veyn]] gebilligte Verbreiterung der [[Regionen/Wurmschneise]] beschädigt eine alte Marke und legt eine lange gemiedene Seitenlinie frei. Der anschließende Baustopp zeigt, dass Kalvarns Ordnung nicht nur am Wald arbeitet, sondern an Schichten, die sie nur unvollständig versteht.
+
+Mit [[Kalvarn - Der erste Sperrbalken der Wurmschneise]] antwortet die Herrschaft darauf erstmals mit sichtbarer Begrenzung. Aus Baustopp wird nun geregelter Zugriff, und aus Unsicherheit ein Zeichen, das Arbeit, Deutung und Passage zugleich ordnen soll.
 
 ## Erste Ankerorte
 
@@ -70,7 +84,11 @@ Wenn [[Aurenhal]] die Würde von `Velis` zeigt und [[Brasselmark]] den materiell
 - [[Regionen/Brasselmark]]
 - [[Fraktionen/Haus Vaelren]]
 - [[Lady Ysara Vaelren]]
+- [[Halmar Veyn]]
 - [[Joric Vaelren]]
+- [[Rainhüter]]
+- [[Kalvarn - Die gebrochene Marke der Wurmschneise]]
+- [[Kalvarn - Der erste Sperrbalken der Wurmschneise]]
 - [[Städte und Siedlungen/Schwarzharz]]
 - [[Städte und Siedlungen/Stillrain]]
 - [[Regionen/Wurmschneise]]

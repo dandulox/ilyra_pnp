@@ -16,15 +16,15 @@
 - Create: `Universe/Personen/Halmar Veyn.md`
 - Create: `Universe/Fraktionen/Rainhüter.md`
 
-- [ ] **Step 1: Personendossier `Halmar Veyn` schreiben**
+- [x] **Step 1: Personendossier `Halmar Veyn` schreiben**
 
 Lege `Halmar Veyn` als Forstvogt von `Kalvarn` an, der Schlagrechte, Wegaufsicht, Transportauflagen und ruhige Durchsetzung verkörpert, aber auf lokales Waldwissen angewiesen bleibt.
 
-- [ ] **Step 2: Fraktionsdossier `Rainhüter` schreiben**
+- [x] **Step 2: Fraktionsdossier `Rainhüter` schreiben**
 
 Lege die `Rainhüter` als alte lokale Dienstfamilie oder Dienstsippe an, die Schneisen, Nebelgründe, Marker und gemiedene Zonen liest und dadurch Kalvarns praktische Nutzbarkeit absichert.
 
-- [ ] **Step 3: Neue Dossiers per Inhaltsprüfung verifizieren**
+- [x] **Step 3: Neue Dossiers per Inhaltsprüfung verifizieren**
 
 Prüfe, ob `Halmar Veyn` und die `Rainhüter` sauber auf `Kalvarn`, `Lady Ysara Vaelren`, `Stillrain` und `Wurmschneise` verweisen.
 
@@ -36,19 +36,19 @@ Prüfe, ob `Halmar Veyn` und die `Rainhüter` sauber auf `Kalvarn`, `Lady Ysara 
 - Modify: `Universe/Städte und Siedlungen/Stillrain.md`
 - Modify: `Universe/Regionen/Wurmschneise.md`
 
-- [ ] **Step 1: `Kalvarn` um Halmar Veyn und die Rainhüter konkretisieren**
+- [x] **Step 1: `Kalvarn` um Halmar Veyn und die Rainhüter konkretisieren**
 
 Ergänze `Kalvarn` um die offizielle Amtsfigur, die praktische Abhängigkeit von den `Rainhütern` und die Dreiecksordnung der Macht.
 
-- [ ] **Step 2: `Lady Ysara Vaelren` um ihre Wahl von Halmar Veyn ergänzen**
+- [x] **Step 2: `Lady Ysara Vaelren` um ihre Wahl von Halmar Veyn ergänzen**
 
 Beschreibe Ysaras Herrschaftsstil präziser, indem klar wird, warum sie `Halmar Veyn` als sichtbaren Verwaltungsarm nutzt.
 
-- [ ] **Step 3: `Stillrain` und `Wurmschneise` um Rainhüter- und Amtsbezüge ergänzen**
+- [x] **Step 3: `Stillrain` und `Wurmschneise` um Rainhüter- und Amtsbezüge ergänzen**
 
 Verankere `Stillrain` als glaubwürdigen Ort lokalen Warnwissens und `Wurmschneise` als Reibungszone zwischen Amtsbefehl und richtiger Weglesung.
 
-- [ ] **Step 4: Geänderte Kalvarn-Dateien per Inhaltsprüfung verifizieren**
+- [x] **Step 4: Geänderte Kalvarn-Dateien per Inhaltsprüfung verifizieren**
 
 Prüfe, ob die neue Herrschaftsstruktur in allen vier Dateien konsistent erscheint.
 
@@ -59,19 +59,19 @@ Prüfe, ob die neue Herrschaftsstruktur in allen vier Dateien konsistent erschei
 - Modify: `Universe/09 Universums-Glossar.md`
 - Modify: `Universe/Fraktionen/Haus Vaelren.md`
 
-- [ ] **Step 1: `Haus Vaelren` um Halmar Veyn und die Rainhüter-Funktion ergänzen**
+- [x] **Step 1: `Haus Vaelren` um Halmar Veyn und die Rainhüter-Funktion ergänzen**
 
 Mache im Vaelren-Dossier lesbar, dass Ysaras Zugriff auf Kalvarn über einen Forstvogt läuft und zugleich auf lokales Warnwissen angewiesen bleibt.
 
-- [ ] **Step 2: Kanon-Index ergänzen**
+- [x] **Step 2: Kanon-Index ergänzen**
 
 Nimm `Halmar Veyn` und die `Rainhüter` in die passenden Bereiche des Universumsindex auf.
 
-- [ ] **Step 3: Glossar ergänzen**
+- [x] **Step 3: Glossar ergänzen**
 
 Nimm `Halmar Veyn` und die `Rainhüter` mit kurzen, stabilen Definitionen auf.
 
-- [ ] **Step 4: Index- und Glossaränderungen verifizieren**
+- [x] **Step 4: Index- und Glossaränderungen verifizieren**
 
 Prüfe, ob die neuen Begriffe knapp, eindeutig und anschlussfähig eingetragen sind.
 
@@ -82,14 +82,14 @@ Prüfe, ob die neuen Begriffe knapp, eindeutig und anschlussfähig eingetragen s
 - Test: `Universe/Fraktionen/`
 - Test: `docs/superpowers/specs/2026-06-11-kalvarn-governance-design.md`
 
-- [ ] **Step 1: Neue Dateien auflisten**
+- [x] **Step 1: Neue Dateien auflisten**
 
 Liste `Halmar Veyn` und `Rainhüter` in ihren Ordnern auf.
 
-- [ ] **Step 2: Inhalte gegen die Spec abgleichen**
+- [x] **Step 2: Inhalte gegen die Spec abgleichen**
 
 Vergleiche neue und geänderte Dateien stichprobenartig mit `docs/superpowers/specs/2026-06-11-kalvarn-governance-design.md`.
 
-- [ ] **Step 3: Arbeitsstand für Übergabe zusammenfassen**
+- [x] **Step 3: Arbeitsstand für Übergabe zusammenfassen**
 
 Fasse Herrschaftsfigur, Dienstfamilie und die nächsten logischen Ausbaupunkte für Kalvarn zusammen.

@@ -6,7 +6,7 @@ scope: universe
 tags:
   - universe
   - index
-last_updated_in: 2026-06-11-kalvarn-foundation
+last_updated_in: 2026-06-12-kalvarn-alke-renn
 ---
 
 # Kanon-Index
@@ -31,15 +31,24 @@ last_updated_in: 2026-06-11-kalvarn-foundation
 - [[Regionen/Aurenhal]]
 - [[Regionen/Brasselmark]]
 - [[Regionen/Kalvarn]]
+- [[Regionen/Kalvarn - Die gebrochene Marke der Wurmschneise]]
+- [[Regionen/Kalvarn - Der erste Sperrbalken der Wurmschneise]]
 - [[Regionen/Brasselmark - Der verschlossene Ernteanteil]]
 - [[Regionen/Brasselmark - Das erste Siegel von Hagbrunn]]
 - [[Regionen/Brasselmark - Der Winterzoll von Riegelsteg]]
 - [[Regionen/Das Grenzland von Dornufer]]
 - [[Regionen/Wurmschneise]]
 
+## Personen
+
+- [[Halmar Veyn]]
+- [[Ofenmeister Brann Velde]]
+- [[Wegmutter Alke Renn]]
+
 ## Fraktionen
 
 - [[Fraktionen/Haus Vaelren]]
+- [[Fraktionen/Rainhüter]]
 - [[Fraktionen/Rat von Neufurt]]
 - [[Fraktionen/Die Freischürfer von Dornufer]]
 
@@ -76,4 +85,4 @@ last_updated_in: 2026-06-11-kalvarn-foundation
 - [[Kreaturen/00 Index]]
 - [[Mythen und Überlieferungen/00 Index]]
 
-Gültig ab: 2026-06-11-kalvarn-foundation
+Gültig ab: 2026-06-12-kalvarn-alke-renn
